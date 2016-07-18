@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="tvdpi"
+    format="7"
+    timestamp="6295779106382"
+    token="-7446945714222091444" >
+
+    <task
+        name="javac"
+        duration="3388" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="248" />
+    <task
+        name="verifier"
+        duration="64" />
+
+    <artifact
+        location="C:\Users\Jonathan\Downloads\Mods\MODSAppv0.5.1.3\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6295779106382" >
+        <artifact
+            location="C:\Users\Jonathan\Downloads\Mods\MODSAppv0.5.1.3\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
