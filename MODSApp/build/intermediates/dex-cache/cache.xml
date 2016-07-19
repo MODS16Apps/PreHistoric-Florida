@@ -1,19 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="386444a29a0762f542295d3ea890f4b88b430991">
-        <dex dex="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d294d63a6adc530affb1fd80b85b334e7ef712fe/classes.dex" />
-    </item>
-    <item
-        jar="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f980236117cfe6cc22d89c9c8e4e7a1f87cb755f">
-        <dex dex="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57af1e9bc085c7080327d861b1896bf2ec2dfddf/classes.dex" />
-    </item>
-
-</items>
+<items version="2" />

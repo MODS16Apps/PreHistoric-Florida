@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:1-47:12
+ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:1-53:12
 	package
 		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:11:7-47
 		INJECTED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
@@ -26,7 +26,7 @@ ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/m
 		INJECTED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:5-46:19
+ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:5-52:19
 	android:label
 		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:11-43
 	android:debuggable
@@ -91,3 +91,15 @@ ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/m
 		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:44:13-38
 	android:name
 		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:43:19-74
+activity#org.example.prehistoricflorida.Trivia
+ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:46:9-48:20
+	android:label
+		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:46:19-71
+activity#org.example.prehistoricflorida.TriviaScore
+ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:49:9-51:20
+	android:label
+		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:50:13-42
+	android:name
+		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:49:19-76
