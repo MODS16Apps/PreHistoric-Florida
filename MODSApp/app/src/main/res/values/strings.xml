@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<resources>
+   <string name="app_name">Prehistoric Florida</string>
+   <string name="main_title">Prehistoric Florida</string>
+   <string name="animal_label">Animals</string>
+   <string name="games_label">Games</string>
+   <string name="map_label">Map</string>
+   <string name="sea_level_label"></string>
+   <string name="animal_menu_title">Animals</string>
+    <string name="info_button">Info</string>
+    <string name="size_comparison_button">Size Comparison</string>
+    <string name="evolution_button">Evolution</string>
+    <string name="ar_button">AR</string>
+    <string name="games_menu_title">Games</string>
+    <string name="trivia_label"></string>
+    <string name="scavenger_hunt_label"></string>
+    <string name="animal_info">Animal Name</string>
+    <string name="next_label">Next</string>
+    <string name="home_label">Home</string>
+
+
+</resources>
