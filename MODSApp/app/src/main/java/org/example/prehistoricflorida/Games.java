@@ -42,6 +42,8 @@ public class Games extends Activity implements OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.trivia_button:
+                Intent i = new Intent(this, Trivia.class);
+                startActivity(i);
                 break;
             case R.id.scavenger_hunt_button:
                 break;

@@ -43,5 +43,8 @@
         <activity android:name="org.example.prehistoricflorida.Evolution"
             android:label="Evolution">
         </activity>
+        <activity android:name="org.example.prehistoricflorida.Trivia"
+            android:label="Trivia">
+        </activity>
     </application>
 </manifest>
