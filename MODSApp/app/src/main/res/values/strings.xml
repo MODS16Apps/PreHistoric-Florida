@@ -15,9 +15,9 @@
    <string name="map_label">Map</string>
    <string name="sea_level_label"></string>
    <string name="animal_menu_title">Animals</string>
-    <string name="info_button">Info</string>
-    <string name="size_comparison_button">Size Comparison</string>
-    <string name="evolution_button">Evolution</string>
+    <string name="info_button"></string>
+    <string name="size_comparison_button"></string>
+    <string name="evolution_button"></string>
     <string name="ar_button">AR</string>
     <string name="games_menu_title">Games</string>
     <string name="trivia_label"></string>

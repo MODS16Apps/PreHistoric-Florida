@@ -44,11 +44,11 @@
     <string name="answer_true">True</string>
     <string name="app_name">Prehistoric Florida</string>
     <string name="ar_button">AR</string>
-    <string name="evolution_button">Evolution</string>
+    <string name="evolution_button"/>
     <string name="games_label">Games</string>
     <string name="games_menu_title">Games</string>
     <string name="home_label">Home</string>
-    <string name="info_button">Info</string>
+    <string name="info_button"/>
     <string name="main_title">Prehistoric Florida</string>
     <string name="map_label">Map</string>
     <string name="next_label">Next</string>
@@ -64,6 +64,6 @@
     <string name="question_9">9. Which of these animals were in existance during the time of the dinosaurs?</string>
     <string name="scavenger_hunt_label"/>
     <string name="sea_level_label"/>
-    <string name="size_comparison_button">Size Comparison</string>
+    <string name="size_comparison_button"/>
     <string name="trivia_label"/>
 </resources>
