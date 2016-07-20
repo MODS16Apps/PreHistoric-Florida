@@ -22,13 +22,13 @@
         android:layout_width="wrap_content"
         android:layout_marginBottom="25dip"
         android:textSize="50sp"
-        android:layout_weight="0.60" />
+        android:layout_weight="0.29" />
     <TextView
         android:text="@string/Archelon_Info"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_marginBottom="25dip"
-        android:textSize="15sp"
+        android:textSize="30sp"
         android:layout_weight="0.60" />
     <Button
         android:id="@+id/next_button"
