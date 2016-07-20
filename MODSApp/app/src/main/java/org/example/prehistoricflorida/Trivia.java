@@ -31,10 +31,6 @@ public class Trivia extends Activity implements OnClickListener {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         triviaGame();
-//        Bundle b = getIntent().getExtras();
-//        if (b != null) {
-//            question = b.getInt("key");
-//        }
 
 
     }
