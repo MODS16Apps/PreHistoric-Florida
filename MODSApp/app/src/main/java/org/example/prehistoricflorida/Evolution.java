@@ -23,6 +23,11 @@ public class Evolution extends Activity implements OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.evolution);
 
+        View nextButton = findViewById(R.id.next_button);
+        nextButton.setOnClickListener(this);
+        View homeButton = findViewById(R.id.home_button);
+        homeButton.setOnClickListener(this);
+
     }
 
     public void onClick(View v) {
@@ -30,6 +35,8 @@ public class Evolution extends Activity implements OnClickListener {
             case R.id.next_button:
                 break;
             case R.id.home_button:
+                Intent i = new Intent(this, PrehistoricFlorida.class);
+                startActivity(i);
                 break;
         }
     }

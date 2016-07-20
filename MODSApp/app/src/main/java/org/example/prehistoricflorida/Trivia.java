@@ -46,21 +46,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 1) {
             switch (v.getId()) {
                 case R.id.a1:
-                    question = 2;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b1:
-                    question = 2;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c1:
                     points++;
-                    question = 2;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d1:
-                    question = 2;
+                    question++;
                     triviaGame();
                     break;
             }
@@ -69,21 +69,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 2) {
             switch (v.getId()) {
                 case R.id.a2:
-                    question = 3;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b2:
-                    question = 3;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c2:
-                    question = 3;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d2:
                     points++;
-                    question = 3;
+                    question++;
                     triviaGame();
                     break;
             }
@@ -94,21 +94,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 3) {
             switch (v.getId()) {
                 case R.id.a3:
-                    question = 4;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b3:
-                    question = 4;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c3:
-                    question = 4;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d3:
                     points++;
-                    question = 4;
+                    question++;;
                     triviaGame();
                     break;
             }
@@ -117,21 +117,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 4) {
             switch (v.getId()) {
                 case R.id.a4:
-                    question = 5;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b4:
-                    question = 5;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c4:
                     points++;
-                    question = 5;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d4:
-                    question = 5;
+                    question++;
                     triviaGame();
                     break;
             }
@@ -140,21 +140,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 5) {
             switch (v.getId()) {
                 case R.id.a5:
-                    question = 6;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b5:
                     points++;
-                    question = 6;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c5:
-                    question = 6;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d5:
-                    question = 6;
+                    question++;
                     triviaGame();
                     break;
             }
@@ -163,21 +163,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 6) {
             switch (v.getId()) {
                 case R.id.a6:
-                    question = 7;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b6:
                     points++;
-                    question = 7;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c6:
-                    question = 7;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d6:
-                    question = 7;
+                    question++;
                     triviaGame();
                     break;
             }
@@ -186,21 +186,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 7) {
             switch (v.getId()) {
                 case R.id.a7:
-                    question = 8;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b7:
-                    question = 8;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c7:
                     points++;
-                    question = 8;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d7:
-                    question = 8;
+                    question++;
                     triviaGame();
                     break;
             }
@@ -209,21 +209,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 8) {
             switch (v.getId()) {
                 case R.id.a8:
-                    question = 9;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b8:
-                    question = 9;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c8:
                     points++;
-                    question = 9;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d8:
-                    question = 9;
+                    question++;
                     triviaGame();
                     break;
             }
@@ -232,21 +232,21 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 9) {
             switch (v.getId()) {
                 case R.id.a9:
-                    question = 10;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.b9:
                     points++;
-                    question = 10;
+                    question++;
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c9:
-                    question = 10;
+                    question++;
                     triviaGame();
                     break;
                 case R.id.d9:
-                    question = 10;
+                    question++;
                     triviaGame();
                     break;
             }

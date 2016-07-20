@@ -1,5 +1,2 @@
-CHANGED,C:\Users\Jonathan\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\prehistoricflorida\R$drawable$override.class
-CHANGED,C:\Users\Jonathan\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\prehistoricflorida\R$layout$override.class
-CHANGED,C:\Users\Jonathan\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\prehistoricflorida\R$string$override.class
-CHANGED,C:\Users\Jonathan\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\prehistoricflorida\R$id$override.class
-CHANGED,C:\Users\Jonathan\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Jacob\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\example\prehistoricflorida\Trivia$override.class
+CHANGED,C:\Users\Jacob\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

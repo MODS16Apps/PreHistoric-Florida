@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,14 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 3,
+                        "startOffset": 458,
+                        "endColumn": 43,
+                        "endOffset": 498
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 147
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 51,
+                        "endOffset": 1188
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 196
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 3,
+                        "startOffset": 574,
+                        "endColumn": 47,
+                        "endOffset": 618
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 250
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 3,
+                        "startOffset": 756,
+                        "endColumn": 52,
+                        "endOffset": 805
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 308
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 57,
+                        "endOffset": 1110
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 354
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1116,
+                        "endColumn": 45,
+                        "endOffset": 1157
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 400
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 45,
+                        "endOffset": 1204
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 450
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1210,
+                        "endColumn": 49,
+                        "endOffset": 1255
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 493
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1261,
+                        "endColumn": 42,
+                        "endOffset": 1299
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 538
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 44,
+                        "endOffset": 1345
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 581
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 42,
+                        "endOffset": 1389
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 628
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 46,
+                        "endOffset": 1437
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 688
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1443,
+                        "endColumn": 59,
+                        "endOffset": 1498
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 748
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1504,
+                        "endColumn": 59,
+                        "endOffset": 1559
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 809
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 60,
+                        "endOffset": 1621
+                    }
                 }
             },
             {
@@ -191,7 +296,14 @@
                     "endOffset": 869
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endColumn": 59,
+                        "endOffset": 1682
+                    }
                 }
             },
             {
@@ -203,7 +315,14 @@
                     "endOffset": 912
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 42,
+                        "endOffset": 1726
+                    }
                 }
             },
             {
@@ -215,7 +334,14 @@
                     "endOffset": 956
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1732,
+                        "endColumn": 43,
+                        "endOffset": 1771
+                    }
                 }
             },
             {
@@ -227,7 +353,14 @@
                     "endOffset": 1005
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endColumn": 48,
+                        "endOffset": 1821
+                    }
                 }
             },
             {
@@ -239,7 +372,14 @@
                     "endOffset": 1050
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endColumn": 44,
+                        "endOffset": 1867
+                    }
                 }
             },
             {
@@ -251,7 +391,14 @@
                     "endOffset": 1100
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1873,
+                        "endColumn": 49,
+                        "endOffset": 1918
+                    }
                 }
             },
             {
@@ -263,7 +410,14 @@
                     "endOffset": 1151
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1924,
+                        "endColumn": 50,
+                        "endOffset": 1970
+                    }
                 }
             },
             {
@@ -275,7 +429,14 @@
                     "endOffset": 1202
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1976,
+                        "endColumn": 50,
+                        "endOffset": 2022
+                    }
                 }
             },
             {
@@ -287,7 +448,14 @@
                     "endOffset": 1253
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2028,
+                        "endColumn": 50,
+                        "endOffset": 2074
+                    }
                 }
             },
             {
@@ -299,7 +467,14 @@
                     "endOffset": 1323
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2080,
+                        "endColumn": 69,
+                        "endOffset": 2145
+                    }
                 }
             },
             {
@@ -311,7 +486,14 @@
                     "endOffset": 1405
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2151,
+                        "endColumn": 81,
+                        "endOffset": 2228
+                    }
                 }
             },
             {
@@ -323,7 +505,14 @@
                     "endOffset": 1490
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2234,
+                        "endColumn": 84,
+                        "endOffset": 2314
+                    }
                 }
             },
             {
@@ -335,7 +524,14 @@
                     "endOffset": 1568
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2320,
+                        "endColumn": 77,
+                        "endOffset": 2393
+                    }
                 }
             },
             {
@@ -347,7 +543,14 @@
                     "endOffset": 1615
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2399,
+                        "endColumn": 46,
+                        "endOffset": 2441
+                    }
                 }
             },
             {
@@ -359,7 +562,14 @@
                     "endOffset": 1663
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2447,
+                        "endColumn": 47,
+                        "endOffset": 2490
+                    }
                 }
             },
             {
@@ -371,7 +581,14 @@
                     "endOffset": 1719
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2496,
+                        "endColumn": 55,
+                        "endOffset": 2547
+                    }
                 }
             },
             {
@@ -383,7 +600,14 @@
                     "endOffset": 1776
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2553,
+                        "endColumn": 56,
+                        "endOffset": 2605
+                    }
                 }
             },
             {
@@ -395,7 +619,14 @@
                     "endOffset": 1817
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2611,
+                        "endColumn": 40,
+                        "endOffset": 2647
+                    }
                 }
             },
             {
@@ -407,7 +638,14 @@
                     "endOffset": 1867
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2653,
+                        "endColumn": 49,
+                        "endOffset": 2698
+                    }
                 }
             },
             {
@@ -419,7 +657,14 @@
                     "endOffset": 1907
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2704,
+                        "endColumn": 39,
+                        "endOffset": 2739
+                    }
                 }
             },
             {
@@ -431,7 +676,14 @@
                     "endOffset": 1949
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2745,
+                        "endColumn": 41,
+                        "endOffset": 2782
+                    }
                 }
             },
             {
@@ -443,7 +695,14 @@
                     "endOffset": 1995
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2788,
+                        "endColumn": 45,
+                        "endOffset": 2829
+                    }
                 }
             },
             {
@@ -455,7 +714,14 @@
                     "endOffset": 2044
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2835,
+                        "endColumn": 48,
+                        "endOffset": 2879
+                    }
                 }
             },
             {
@@ -467,7 +733,14 @@
                     "endOffset": 2088
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2885,
+                        "endColumn": 43,
+                        "endOffset": 2924
+                    }
                 }
             },
             {
@@ -479,7 +752,14 @@
                     "endOffset": 2133
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2930,
+                        "endColumn": 44,
+                        "endOffset": 2970
+                    }
                 }
             },
             {
@@ -491,7 +771,14 @@
                     "endOffset": 2180
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3022,
+                        "endColumn": 46,
+                        "endOffset": 3064
+                    }
                 }
             },
             {
@@ -503,7 +790,14 @@
                     "endOffset": 2225
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2976,
+                        "endColumn": 44,
+                        "endOffset": 3016
+                    }
                 }
             },
             {
@@ -515,7 +809,14 @@
                     "endOffset": 2282
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 3,
+                        "startOffset": 458,
+                        "endColumn": 55,
+                        "endOffset": 510
+                    }
                 }
             },
             {
@@ -527,7 +828,14 @@
                     "endOffset": 2323
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 953,
+                        "endColumn": 40,
+                        "endOffset": 989
+                    }
                 }
             },
             {
@@ -539,7 +847,7 @@
                     "endOffset": 2361
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -558,7 +866,14 @@
                     "endOffset": 2407
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 3,
+                        "startOffset": 623,
+                        "endColumn": 44,
+                        "endOffset": 664
+                    }
                 }
             },
             {
@@ -570,7 +885,14 @@
                     "endOffset": 2458
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 50,
+                        "endOffset": 1041
+                    }
                 }
             },
             {
@@ -582,7 +904,14 @@
                     "endOffset": 2502
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1239,
+                        "endColumn": 43,
+                        "endOffset": 1278
+                    }
                 }
             },
             {
@@ -594,7 +923,14 @@
                     "endOffset": 2535
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 40,
+                        "endOffset": 847
+                    }
                 }
             },
             {
@@ -606,7 +942,14 @@
                     "endOffset": 2594
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 3,
+                        "startOffset": 515,
+                        "endColumn": 57,
+                        "endOffset": 569
+                    }
                 }
             },
             {
@@ -618,7 +961,14 @@
                     "endOffset": 2636
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 3,
+                        "startOffset": 669,
+                        "endColumn": 40,
+                        "endOffset": 706
+                    }
                 }
             },
             {
@@ -630,7 +980,14 @@
                     "endOffset": 2680
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 43,
+                        "endOffset": 1233
+                    }
                 }
             },
             {
@@ -642,7 +999,14 @@
                     "endOffset": 2771
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 90,
+                        "endOffset": 143
+                    }
                 }
             },
             {
@@ -654,7 +1018,14 @@
                     "endOffset": 2876
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 104,
+                        "endOffset": 1049
+                    }
                 }
             },
             {
@@ -666,7 +1037,14 @@
                     "endOffset": 2979
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 102,
+                        "endOffset": 247
+                    }
                 }
             },
             {
@@ -678,7 +1056,14 @@
                     "endOffset": 3044
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 64,
+                        "endOffset": 313
+                    }
                 }
             },
             {
@@ -690,7 +1075,14 @@
                     "endOffset": 3152
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 107,
+                        "endOffset": 422
+                    }
                 }
             },
             {
@@ -702,7 +1094,14 @@
                     "endOffset": 3267
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 114,
+                        "endOffset": 538
+                    }
                 }
             },
             {
@@ -714,7 +1113,14 @@
                     "endOffset": 3355
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 87,
+                        "endOffset": 627
+                    }
                 }
             },
             {
@@ -726,7 +1132,14 @@
                     "endOffset": 3460
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 104,
+                        "endOffset": 733
+                    }
                 }
             },
             {
@@ -738,7 +1151,14 @@
                     "endOffset": 3551
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 90,
+                        "endOffset": 825
+                    }
                 }
             },
             {
@@ -750,7 +1170,14 @@
                     "endOffset": 3668
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\trivia_data.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 831,
+                        "endColumn": 116,
+                        "endOffset": 943
+                    }
                 }
             },
             {
@@ -762,7 +1189,14 @@
                     "endOffset": 3710
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 49,
+                        "endOffset": 1135
+                    }
                 }
             },
             {
@@ -774,7 +1208,14 @@
                     "endOffset": 3747
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 3,
+                        "startOffset": 711,
+                        "endColumn": 43,
+                        "endOffset": 751
+                    }
                 }
             },
             {
@@ -786,7 +1227,14 @@
                     "endOffset": 3791
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 51,
+                        "endOffset": 900
+                    }
                 }
             },
             {
@@ -798,7 +1246,14 @@
                     "endOffset": 3825
                 },
                 "from": {
-                    "file": "C:\\Users\\Jonathan\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endColumn": 41,
+                        "endOffset": 1084
+                    }
                 }
             }
         ]
