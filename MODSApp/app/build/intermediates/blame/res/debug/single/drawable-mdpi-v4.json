@@ -8,6 +8,10 @@
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-mdpi\\sizecomp.png"
     },
     {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mastadon.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-mdpi\\mastadon.png"
+    },
+    {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
@@ -20,12 +24,20 @@
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-mdpi\\animalinfo.png"
     },
     {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\megalodon.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-mdpi\\megalodon.png"
+    },
+    {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sealevel.png",
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-mdpi\\sealevel.png"
     },
     {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sealevelchanging.gif",
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-mdpi\\sealevelchanging.gif"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\megatherium.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-mdpi\\megatherium.png"
     },
     {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\footprint.png",

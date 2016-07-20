@@ -4,12 +4,20 @@
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-hdpi\\evolution.png"
     },
     {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\megatherium.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-hdpi\\megatherium.png"
+    },
+    {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baseum.png",
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-hdpi\\baseum.png"
     },
     {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sealevelchanging.gif",
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-hdpi\\sealevelchanging.gif"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mastadon.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-hdpi\\mastadon.png"
     },
     {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map.png",
@@ -50,6 +58,10 @@
     {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sizecomp.png",
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-hdpi\\sizecomp.png"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\megalodon.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-hdpi\\megalodon.png"
     },
     {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ar.png",

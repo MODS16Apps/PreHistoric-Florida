@@ -36,6 +36,10 @@
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-ldpi\\trivia.png"
     },
     {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\megalodon.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-ldpi\\megalodon.png"
+    },
+    {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\map.png",
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-ldpi\\map.png"
     },
@@ -48,8 +52,16 @@
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-ldpi\\bones.png"
     },
     {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\megatherium.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-ldpi\\megatherium.png"
+    },
+    {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\megalodonlogo.png",
         "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-ldpi\\megalodonlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mastadon.png",
+        "source": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\src\\main\\res\\drawable-ldpi\\mastadon.png"
     },
     {
         "merged": "C:\\Users\\Jacob\\Documents\\GitHub\\PreHistoric-Florida\\MODSApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\footprint.png",

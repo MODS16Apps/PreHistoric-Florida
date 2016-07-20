@@ -23,12 +23,7 @@ public class AnimalInfo extends Activity implements OnClickListener {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        View nextButton = findViewById(R.id.next_button);
-        nextButton.setOnClickListener(this);
-        View backButton = findViewById(R.id.back_button);
-        backButton.setOnClickListener(this);
-        View homeButton = findViewById(R.id.home_button);
-        homeButton.setOnClickListener(this);
+        animals();
 
     }
 
@@ -96,7 +91,7 @@ public class AnimalInfo extends Activity implements OnClickListener {
         }
 
         if (animal == 5) {
-            setContentView(R.layout.mastadon);
+            setContentView(R.layout.mastodon);
 
             View nextButton = findViewById(R.id.next_button);
             nextButton.setOnClickListener(this);
@@ -142,8 +137,8 @@ public class AnimalInfo extends Activity implements OnClickListener {
         if (animal == 9) {
             setContentView(R.layout.mammoth);
 
-            View nextButton = findViewById(R.id.next_button);
-            nextButton.setOnClickListener(this);
+ ///           View nextButton = findViewById(R.id.next_button);
+ ///           nextButton.setOnClickListener(this);
             View backButton = findViewById(R.id.back_button);
             backButton.setOnClickListener(this);
             View homeButton = findViewById(R.id.home_button);
