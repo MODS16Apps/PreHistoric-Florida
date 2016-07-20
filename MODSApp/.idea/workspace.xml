@@ -39,52 +39,151 @@
     <favorites_list name="MODSApp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="PrehistoricFlorida.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/PrehistoricFlorida.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="archelon.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/archelon.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+            <state vertical-scroll-proportion="-9.163636">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="mammoth.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/mammoth.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="Animals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/Animals.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+=======
+      <file leaf-file-name="tiger.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tiger.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> origin/master
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Trivia.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/Trivia.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+=======
+      <file leaf-file-name="horse.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/horse.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> origin/master
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="animals.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/animals.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-25.5">
               <caret line="39" column="27" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="27" />
+=======
+      <file leaf-file-name="bear.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bear.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> origin/master
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="AnimalInfo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/AnimalInfo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.33150685">
               <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+=======
+      <file leaf-file-name="mastodon.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/mastodon.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phorusrhacidae.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/phorusrhacidae.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="megatherium.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/megatherium.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="casteriode.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/casteriode.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> origin/master
               <folding />
             </state>
           </provider>
@@ -96,8 +195,13 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="-0.3090909">
               <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+=======
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+>>>>>>> origin/master
               <folding />
             </state>
           </provider>
@@ -1666,15 +1770,26 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/animals_info.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/archelon.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/AnimalInfo.java" />
+=======
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/mammoth.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/tiger.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/horse.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/bear.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/mastodon.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/phorusrhacidae.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/megatherium.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/casteriode.xml" />
+>>>>>>> origin/master
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1702,8 +1817,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1760,24 +1875,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MODSApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prehistoricflorida" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2077,9 +2174,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
+<<<<<<< HEAD
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -2108,6 +2206,36 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29692832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24068768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> origin/master
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2118,11 +2246,58 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/PrehistoricFlorida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/Trivia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/AnimalInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/animals.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/archelon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/animals_info.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/TriviaScore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7258065">
           <caret line="45" column="33" selection-start-line="44" selection-start-column="16" selection-end-line="45" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2130,7 +2305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2138,7 +2312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8411458">
           <caret line="36" column="43" selection-start-line="33" selection-start-column="8" selection-end-line="36" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2146,10 +2319,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22135417">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/Animals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65625">
+          <caret line="48" column="62" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> origin/master
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/trivia_score.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -2184,8 +2366,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.87524754">
           <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
@@ -2195,11 +2382,17 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.47316104">
           <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
           <folding>
             <element signature="e#1353#1373#0" expanded="true" />
           </folding>
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="166" column="26" selection-start-line="166" selection-start-column="26" selection-end-line="166" selection-end-column="26" />
+          <folding />
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
@@ -2214,7 +2407,11 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/PrehistoricFlorida.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+=======
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
@@ -2222,7 +2419,11 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/Animals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+=======
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
@@ -2232,16 +2433,108 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="-0.3090909">
           <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+=======
+        <state vertical-scroll-proportion="-9.163636">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/example/prehistoricflorida/AnimalInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33150685">
           <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/mammoth.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tiger.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/horse.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bear.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/mastodon.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/phorusrhacidae.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/megatherium.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/casteriode.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
