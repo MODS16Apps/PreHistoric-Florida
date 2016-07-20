@@ -14,6 +14,7 @@ import android.view.View.OnClickListener;
 
 public class AnimalInfo extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
+    int animal = 0;
 
     /**
      * Called when the activity is first created.
@@ -33,6 +34,7 @@ public class AnimalInfo extends Activity implements OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.next_button:
+                animal++;
                 break;
             case R.id.home_button:
                 Intent i = new Intent(this, PrehistoricFlorida.class);
