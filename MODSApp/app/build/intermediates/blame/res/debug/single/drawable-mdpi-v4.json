@@ -48,12 +48,12 @@
         "source": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-mdpi/map.png"
     },
     {
-        "merged": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/baseum.png",
-        "source": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-mdpi/baseum.png"
-    },
-    {
         "merged": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sealevelchanging.gif",
         "source": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-mdpi/sealevelchanging.gif"
+    },
+    {
+        "merged": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/baseum.png",
+        "source": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-mdpi/baseum.png"
     },
     {
         "merged": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/evolution.png",

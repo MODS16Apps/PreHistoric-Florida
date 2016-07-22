@@ -4,30 +4,56 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="13851355275737"
-    token="-5876721465913241653" >
+    timestamp="17798712184325"
+    token="-5876721465913241653"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="8771" />
+        duration="546" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="2972" />
     <task
         name="instant-run-transform"
-        duration="2394" />
+        duration="110" />
     <task
         name="verifier"
-        duration="56" />
+        duration="152" />
 
     <artifact
-        location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="13851355275737" >
+    <build timestamp="16924831886469" >
         <artifact
             location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="17698538210350" >
+        <artifact
+            location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="17764683359028"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/builds/debug/17764683359028/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="17798712184325"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

@@ -45,4 +45,7 @@ steep forehead. Its teeth are thought to have done more damage than other specie
     <string name="Dugong">Dugong</string>
     <string name="Megalodon">Megalodon</string>
 
+    <string name="Elephant">Modern Elephant</string>
+    <string name="E_Evolution">Modern elephants are the last surviving descendants of of a common ancestor that split and evolved into other species, such as the Wooly Mammoth and Dugong.</string>
+
 </resources>
