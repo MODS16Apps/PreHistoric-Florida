@@ -35,25 +35,15 @@
         <!--android:layout_width="fill_parent"-->
         <!--android:layout_height="wrap_content"-->
         <!--android:text="@string/next_label" />-->
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="168dp">
-
-        <Button
-            android:id="@+id/back_button"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-            android:text="@string/back_label"
-            android:background="@drawable/arrowleft"
-            android:layout_marginLeft="75dp" />
-        <Button
-            android:id="@+id/home_button"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-            android:text="@string/home_label"
-            android:background="@drawable/homebutton"
-            android:layout_marginLeft="75dp" />
-    </LinearLayout>
-
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/back_label" />
+    <Button
+        android:id="@+id/home_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/home_label" />
 
 </LinearLayout>

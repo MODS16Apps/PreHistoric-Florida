@@ -23,9 +23,9 @@
     <string name="trivia_label"></string>
     <string name="scavenger_hunt_label"></string>
     <string name="animal_info">Animal Name</string>
-    <string name="next_label"></string>
-    <string name="back_label"></string>
-    <string name="home_label"></string>
+    <string name="next_label">Next</string>
+    <string name="back_label">Back</string>
+    <string name="home_label">Home</string>
 
 
 </resources>

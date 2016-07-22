@@ -52,8 +52,6 @@ public class SizeComparison extends Activity implements OnClickListener {
 
             View nextButton = findViewById(R.id.next_button);
             nextButton.setOnClickListener(this);
-            View backButton = findViewById(R.id.back_button);
-            backButton.setOnClickListener(this);
             View homeButton = findViewById(R.id.home_button);
             homeButton.setOnClickListener(this);
         }
@@ -94,8 +92,6 @@ public class SizeComparison extends Activity implements OnClickListener {
         if (animal == 5) {
             setContentView(R.layout.megalodon_size);
 
-            View nextButton = findViewById(R.id.next_button);
-            nextButton.setOnClickListener(this);
             View backButton = findViewById(R.id.back_button);
             backButton.setOnClickListener(this);
             View homeButton = findViewById(R.id.home_button);
