@@ -4,47 +4,30 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="442399190583410"
-    token="-6423901935299387557" >
+    timestamp="13851355275737"
+    token="-5876721465913241653" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="8771" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="2394" />
     <task
         name="verifier"
-        duration="0" />
+        duration="56" />
 
     <artifact
-        location="C:\Users\Jacob\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
+        location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="441829643837238" >
+    <build timestamp="13851355275737" >
         <artifact
-            location="C:\Users\Jacob\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\outputs\apk\app-debug.apk"
+            location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="441931916368824" >
-        <artifact
-            location="C:\Users\Jacob\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="442324694943908"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\Jacob\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\builds\debug\442324694943908\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build timestamp="442399190583410" >
-        <artifact
-            location="C:\Users\Jacob\Documents\GitHub\PreHistoric-Florida\MODSApp\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
