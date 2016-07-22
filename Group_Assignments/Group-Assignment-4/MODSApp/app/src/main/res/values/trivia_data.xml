@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_1">1. Which of these animals did not populate Florida?</string>
+    <string name="question_2">2.  Which of these fossil types have not been found in Florida?</string>
+    <string name="question_3">3. When did Florida form?</string>
+    <string name="question_4">4.  Which of the following is the oldest Floridian vertebrae fossil?</string>
+    <string name="question_5">5. The giant prehistoric shark Megalodon became extinct how many years ago?</string>
+    <string name="question_6">6. Why are there no dinosaur fossils in Florida?</string>
+    <string name="question_7">7. The most recent "prehistoric" animal to live in Florida is the</string>
+    <string name="question_8">8. How many dinosaur fossils were found in Florida?</string>
+    <string name="question_9">9. Which of these animals were in existance during the time of the dinosaurs?</string>
+    <string name="question_10">10. The sea level was lower than present in prehistoric Florida.</string>
+
+    <string name="answer_1a">Saber Toothed Tiger</string>
+    <string name="answer_1b">Mammoth</string>
+    <string name="answer_1c">Penguin</string>
+    <string name="answer_1d">Giant Sloth</string>
+    <string name="answer_2a">fish</string>
+    <string name="answer_2b">mammal</string>
+    <string name="answer_2c">bird</string>
+    <string name="answer_2d">dinosaur</string>
+    <string name="answer_3a">3.5 million years ago</string>
+    <string name="answer_3b">200 million years ago</string>
+    <string name="answer_3c">450 million years ago </string>
+    <string name="answer_3d">530 million years ago</string>
+    <string name="answer_4a">bear</string>
+    <string name="answer_4b">shark</string>
+    <string name="answer_4c">sea turtle</string>
+    <string name="answer_4d">monkey</string>
+    <string name="answer_5a">3.5 million</string>
+    <string name="answer_5b">2.6 million </string>
+    <string name="answer_5c">450 thousand</string>
+    <string name="answer_5d">937 thousand</string>
+    <string name="answer_6a">Dinosaurs did not like the heat</string>
+    <string name="answer_6b">Florida was underwater when dinosaurs lived</string>
+    <string name="answer_6c">Florida was too far from where dinosaurs lived</string>
+    <string name="answer_6d">Dinosaurs did not live in North America</string>
+    <string name="answer_7a">mastodon</string>
+    <string name="answer_7b">megalodon</string>
+    <string name="answer_7c">sabre tooth tiger</string>
+    <string name="answer_7d">tyrannasaurous rex</string>
+    <string name="answer_8a">40</string>
+    <string name="answer_8b">3.5 million</string>
+    <string name="answer_8c">0</string>
+    <string name="answer_8d">800</string>
+    <string name="answer_9a">monkeys</string>
+    <string name="answer_9b">alligators</string>
+    <string name="answer_9c">crabs</string>
+    <string name="answer_9d">whales</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+</resources>
