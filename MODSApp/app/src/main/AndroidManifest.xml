@@ -49,5 +49,8 @@
         <activity android:name="org.example.prehistoricflorida.TriviaScore"
             android:label="TriviaScore  ">
         </activity>
+        <activity android:name="org.example.prehistoricflorida.ScavengerHunt"
+            android:label="ScavengerHunt">
+            </activity>
     </application>
 </manifest>

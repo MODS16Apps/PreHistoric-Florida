@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:1-53:12
+ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:1-56:12
 	package
 		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:11:7-47
 		INJECTED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
@@ -26,7 +26,7 @@ ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/m
 		INJECTED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:5-52:19
+ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:5-55:19
 	android:label
 		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:11-43
 	android:debuggable
@@ -103,3 +103,9 @@ ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/m
 		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:50:13-42
 	android:name
 		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:49:19-76
+activity#org.example.prehistoricflorida.ScavengerHunt
+ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:52:9-54:24
+	android:label
+		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:53:13-42
+	android:name
+		ADDED from /home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:52:19-78

@@ -104,7 +104,7 @@ public class Trivia extends Activity implements OnClickListener {
                     break;
                 case R.id.d3:
                     points++;
-                    question++;;
+                    question++;
                     triviaGame();
                     break;
             }

@@ -110,14 +110,7 @@
                     "endOffset": 1469
                 },
                 "from": {
-                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/animals.xml",
-                    "position": {
-                        "startLine": 48,
-                        "startColumn": 4,
-                        "startOffset": 3575,
-                        "endColumn": 196,
-                        "endOffset": 3767
-                    }
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/animals.xml"
                 }
             },
             {
@@ -129,14 +122,7 @@
                     "endOffset": 1522
                 },
                 "from": {
-                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/animals.xml",
-                    "position": {
-                        "startLine": 47,
-                        "startColumn": 4,
-                        "startOffset": 3522,
-                        "endColumn": 52,
-                        "endOffset": 3570
-                    }
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/animals.xml"
                 }
             },
             {
@@ -822,20 +808,20 @@
                     "startLine": 82,
                     "startColumn": 4,
                     "startOffset": 6034,
-                    "endColumn": 43,
-                    "endOffset": 6073
+                    "endColumn": 202,
+                    "endOffset": 6232
                 },
                 "from": {
-                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/scanvegerhunt.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 6078,
-                    "endColumn": 37,
-                    "endOffset": 6111
+                    "startOffset": 6237,
+                    "endColumn": 43,
+                    "endOffset": 6276
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -845,9 +831,9 @@
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 6116,
+                    "startOffset": 6281,
                     "endColumn": 45,
-                    "endOffset": 6157
+                    "endOffset": 6322
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -857,9 +843,9 @@
                 "to": {
                     "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 6162,
-                    "endColumn": 50,
-                    "endOffset": 6208
+                    "startOffset": 6327,
+                    "endColumn": 37,
+                    "endOffset": 6360
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -869,9 +855,9 @@
                 "to": {
                     "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 6213,
-                    "endColumn": 43,
-                    "endOffset": 6252
+                    "startOffset": 6365,
+                    "endColumn": 45,
+                    "endOffset": 6406
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -881,9 +867,9 @@
                 "to": {
                     "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 6257,
-                    "endColumn": 32,
-                    "endOffset": 6285
+                    "startOffset": 6411,
+                    "endColumn": 50,
+                    "endOffset": 6457
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -893,9 +879,9 @@
                 "to": {
                     "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 6290,
-                    "endColumn": 58,
-                    "endOffset": 6344
+                    "startOffset": 6462,
+                    "endColumn": 43,
+                    "endOffset": 6501
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -905,9 +891,9 @@
                 "to": {
                     "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 6349,
-                    "endColumn": 41,
-                    "endOffset": 6386
+                    "startOffset": 6506,
+                    "endColumn": 32,
+                    "endOffset": 6534
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -917,9 +903,9 @@
                 "to": {
                     "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 6391,
-                    "endColumn": 43,
-                    "endOffset": 6430
+                    "startOffset": 6539,
+                    "endColumn": 58,
+                    "endOffset": 6593
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -929,45 +915,52 @@
                 "to": {
                     "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 6435,
-                    "endColumn": 90,
-                    "endOffset": 6521
+                    "startOffset": 6598,
+                    "endColumn": 41,
+                    "endOffset": 6635
                 },
                 "from": {
-                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 6526,
-                    "endColumn": 104,
-                    "endOffset": 6626
+                    "startOffset": 6640,
+                    "endColumn": 255,
+                    "endOffset": 6891
                 },
                 "from": {
-                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/scanvegerhunt.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 255,
+                        "endOffset": 868
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 6631,
-                    "endColumn": 102,
-                    "endOffset": 6729
+                    "startOffset": 6896,
+                    "endColumn": 43,
+                    "endOffset": 6935
                 },
                 "from": {
-                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 6734,
-                    "endColumn": 64,
-                    "endOffset": 6794
+                    "startOffset": 6940,
+                    "endColumn": 90,
+                    "endOffset": 7026
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
@@ -977,9 +970,9 @@
                 "to": {
                     "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 6799,
-                    "endColumn": 107,
-                    "endOffset": 6902
+                    "startOffset": 7031,
+                    "endColumn": 104,
+                    "endOffset": 7131
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
@@ -989,9 +982,9 @@
                 "to": {
                     "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 6907,
-                    "endColumn": 114,
-                    "endOffset": 7017
+                    "startOffset": 7136,
+                    "endColumn": 102,
+                    "endOffset": 7234
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
@@ -1001,9 +994,9 @@
                 "to": {
                     "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 7022,
-                    "endColumn": 87,
-                    "endOffset": 7105
+                    "startOffset": 7239,
+                    "endColumn": 64,
+                    "endOffset": 7299
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
@@ -1013,9 +1006,9 @@
                 "to": {
                     "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 7110,
-                    "endColumn": 104,
-                    "endOffset": 7210
+                    "startOffset": 7304,
+                    "endColumn": 107,
+                    "endOffset": 7407
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
@@ -1025,9 +1018,9 @@
                 "to": {
                     "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 7215,
-                    "endColumn": 90,
-                    "endOffset": 7301
+                    "startOffset": 7412,
+                    "endColumn": 114,
+                    "endOffset": 7522
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
@@ -1037,9 +1030,9 @@
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 7306,
-                    "endColumn": 116,
-                    "endOffset": 7418
+                    "startOffset": 7527,
+                    "endColumn": 87,
+                    "endOffset": 7610
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
@@ -1049,33 +1042,64 @@
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 7423,
-                    "endColumn": 41,
-                    "endOffset": 7460
+                    "startOffset": 7615,
+                    "endColumn": 104,
+                    "endOffset": 7715
                 },
                 "from": {
-                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 7465,
-                    "endColumn": 36,
-                    "endOffset": 7497
+                    "startOffset": 7720,
+                    "endColumn": 90,
+                    "endOffset": 7806
                 },
                 "from": {
-                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 7502,
-                    "endColumn": 43,
-                    "endOffset": 7541
+                    "startOffset": 7811,
+                    "endColumn": 116,
+                    "endOffset": 7923
+                },
+                "from": {
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/trivia_data.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7928,
+                    "endColumn": 133,
+                    "endOffset": 8057
+                },
+                "from": {
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/scanvegerhunt.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 133,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8062,
+                    "endColumn": 41,
+                    "endOffset": 8099
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
@@ -1083,11 +1107,54 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 7546,
+                    "startOffset": 8104,
+                    "endColumn": 36,
+                    "endOffset": 8136
+                },
+                "from": {
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8141,
+                    "endColumn": 43,
+                    "endOffset": 8180
+                },
+                "from": {
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8185,
+                    "endColumn": 224,
+                    "endOffset": 8405
+                },
+                "from": {
+                    "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/scanvegerhunt.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 224,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8410,
                     "endColumn": 33,
-                    "endOffset": 7575
+                    "endOffset": 8439
                 },
                 "from": {
                     "file": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/values/strings.xml"
