@@ -28,6 +28,7 @@
     <string name="home_label"></string>
     <string name="enter_label">Enter</string>
     <string name="finish_label">Finish</string>
-
+    <string name="start_label">Start</string>
+    <string name="correct">Correct</string>
 
 </resources>

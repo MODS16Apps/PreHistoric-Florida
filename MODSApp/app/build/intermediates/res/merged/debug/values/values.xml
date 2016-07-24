@@ -82,12 +82,13 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="ar_button">AR</string>
     <string name="archelon_sh">I am the largest turtle to ever live. I used my large, powerful jaws to crush crustaceans and mollusks. I also lacked a hard shell. Which prehistoric animal am I?</string>
     <string name="back_label">Back</string>
+    <string name="correct">Correct</string>
     <string name="enter_label">Enter</string>
     <string name="evolution_button"/>
     <string name="finish_label">Finish</string>
     <string name="games_label">Games</string>
     <string name="games_menu_title">Games</string>
-    <string name="home_label">Home</string>
+    <string name="home_label"/>
     <string name="info_button"/>
     <string name="main_title">Prehistoric Florida</string>
     <string name="map_label">Map</string>
@@ -107,6 +108,7 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="scavenger_hunt_label"/>
     <string name="sea_level_label"/>
     <string name="size_comparison_button"/>
+    <string name="start_label">Start</string>
     <string name="tiger_sh">I am a cat, but not closely related to tigers, cats, or other modern cats. I have very long fangs used for subduing prey. My jaw can open up to 120 degrees. Which prehistoric animal am I?</string>
     <string name="trivia_label"/>
 </resources>

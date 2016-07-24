@@ -49,7 +49,7 @@ public class Games extends Activity implements OnClickListener {
                 startActivity(i);
                 break;
             case R.id.scavenger_hunt_button:
-                Intent j = new Intent(this, ScavengerHunt.class);
+                Intent j = new Intent(this, ScavengerHuntStart.class);
                 startActivity(j);
                 break;
         }
