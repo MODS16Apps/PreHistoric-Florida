@@ -27,6 +27,7 @@
     <string name="back_label">Back</string>
     <string name="home_label">Home</string>
     <string name="enter_label">Enter</string>
+    <string name="finish_label">Finish</string>
 
 
 </resources>

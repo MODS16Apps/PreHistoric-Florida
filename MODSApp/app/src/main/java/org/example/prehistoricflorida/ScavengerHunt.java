@@ -145,7 +145,7 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                     Intent i = new Intent(this, PrehistoricFlorida.class);
                     startActivity(i);
                     break;
-                case R.id.next_button:
+                case R.id.finish_button:
                     if (correct2){
                         break;
                     }
@@ -196,7 +196,7 @@ public class ScavengerHunt extends Activity implements OnClickListener {
             eButton.setOnClickListener(this);
             View hButton = findViewById(R.id.home_button);
             hButton.setOnClickListener(this);
-            View nButton = findViewById(R.id.next_button);
+            View nButton = findViewById(R.id.finish_button);
             nButton.setOnClickListener(this);
         }
 

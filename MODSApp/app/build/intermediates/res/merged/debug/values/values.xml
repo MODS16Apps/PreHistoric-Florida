@@ -84,6 +84,7 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="back_label">Back</string>
     <string name="enter_label">Enter</string>
     <string name="evolution_button"/>
+    <string name="finish_label">Finish</string>
     <string name="games_label">Games</string>
     <string name="games_menu_title">Games</string>
     <string name="home_label">Home</string>

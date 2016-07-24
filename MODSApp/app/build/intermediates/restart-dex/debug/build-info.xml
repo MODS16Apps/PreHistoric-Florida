@@ -4,22 +4,22 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="6794985248520"
+    timestamp="7592150736716"
     token="-5876721465913241653"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="102" />
+        duration="237" />
     <task
         name="instant-run-dex"
-        duration="904" />
+        duration="1325" />
     <task
         name="instant-run-transform"
-        duration="10" />
+        duration="15" />
     <task
         name="verifier"
-        duration="0" />
+        duration="8" />
 
     <artifact
         location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/reload-dex/debug/classes.dex"
@@ -30,20 +30,16 @@
             location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="6688244228379" >
+    <build timestamp="7546943477010" >
+        <artifact
+            location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
         <artifact
             location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="6758090409978"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/builds/debug/6758090409978/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="6794985248520"
+        timestamp="7592150736716"
         verifier="COMPATIBLE" >
         <artifact
             location="/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/reload-dex/debug/classes.dex"
