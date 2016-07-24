@@ -88,10 +88,10 @@ public final class R {
         public static final int games_button=0x7f06000a;
         public static final int home_button=0x7f060002;
         public static final int imageView12=0x7f06000d;
-        public static final int incorrect=0x7f060010;
         public static final int info_button=0x7f060003;
         public static final int map_button=0x7f06000b;
         public static final int next_button=0x7f060000;
+        public static final int response=0x7f060010;
         public static final int scavenger_hunt_button=0x7f060008;
         public static final int score=0x7f060011;
         public static final int sea_level_button=0x7f06000c;
@@ -124,21 +124,20 @@ public final class R {
         public static final int scavenger2=0x7f030016;
         public static final int scavenger3=0x7f030017;
         public static final int scavenger4=0x7f030018;
-        public static final int scavenger5=0x7f030019;
-        public static final int sealevel=0x7f03001a;
-        public static final int size_comparison=0x7f03001b;
-        public static final int tiger=0x7f03001c;
-        public static final int trivia_score=0x7f03001d;
-        public static final int triviaq1=0x7f03001e;
-        public static final int triviaq10=0x7f03001f;
-        public static final int triviaq2=0x7f030020;
-        public static final int triviaq3=0x7f030021;
-        public static final int triviaq4=0x7f030022;
-        public static final int triviaq5=0x7f030023;
-        public static final int triviaq6=0x7f030024;
-        public static final int triviaq7=0x7f030025;
-        public static final int triviaq8=0x7f030026;
-        public static final int triviaq9=0x7f030027;
+        public static final int sealevel=0x7f030019;
+        public static final int size_comparison=0x7f03001a;
+        public static final int tiger=0x7f03001b;
+        public static final int trivia_score=0x7f03001c;
+        public static final int triviaq1=0x7f03001d;
+        public static final int triviaq10=0x7f03001e;
+        public static final int triviaq2=0x7f03001f;
+        public static final int triviaq3=0x7f030020;
+        public static final int triviaq4=0x7f030021;
+        public static final int triviaq5=0x7f030022;
+        public static final int triviaq6=0x7f030023;
+        public static final int triviaq7=0x7f030024;
+        public static final int triviaq8=0x7f030025;
+        public static final int triviaq9=0x7f030026;
     }
     public static final class string {
         public static final int Archelon=0x7f050000;

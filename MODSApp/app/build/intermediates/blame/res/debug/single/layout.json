@@ -112,10 +112,6 @@
         "source": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/layout/phorusrhacidae.xml"
     },
     {
-        "merged": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/layout/scavenger5.xml",
-        "source": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/layout/scavenger5.xml"
-    },
-    {
         "merged": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/layout/trivia_score.xml",
         "source": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/layout/trivia_score.xml"
     },

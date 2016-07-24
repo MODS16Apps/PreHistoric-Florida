@@ -14,10 +14,13 @@ import android.view.View.OnClickListener;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import java.util.concurrent.TimeUnit;
+
 public class ScavengerHunt extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
     int task = 1;
     EditText mEdit;
+    boolean correct1, correct2, correct3, correct4;
 
     /**
      * Called when the activity is first created.
@@ -39,12 +42,13 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                     String answer = mEdit.getText().toString();
                     String a = answer.toLowerCase();
                     if (a.equals("archelon")) {
-                        TextView correct = (TextView) findViewById(R.id.incorrect);
-                        correct.setText("Correct");;
+                        TextView correct = (TextView) findViewById(R.id.response);
+                        correct.setText("Correct");
+                        correct1 = true;
                         break;
                     }
                     else {
-                        TextView incorrect = (TextView) findViewById(R.id.incorrect);
+                        TextView incorrect = (TextView) findViewById(R.id.response);
                         incorrect.setText("Incorrect");
                         break;
                     }
@@ -52,27 +56,30 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                     Intent i = new Intent(this, PrehistoricFlorida.class);
                     startActivity(i);
                     break;
-                case R.id.next_button :
-                    task++;
-                    hunt();
-                    break;
+                case R.id.next_button:
+                    if (correct1){
+                        task++;
+                        hunt();
+                        break;
+                    }
+
             }
         }
         if (task == 2) {
-            TextView start  = (TextView) findViewById(R.id.incorrect);
-            start.setText("");
+            Log.d(TAG, "test2");
             mEdit   = (EditText)findViewById(R.id.answer);
             switch (v.getId()) {
                 case R.id.enter_button:
                     String answer = mEdit.getText().toString();
                     String b = answer.toLowerCase();
                     if (b.equals("mosasaur") || b.equals("plesiosaur") || b.equals("pliosaur")) {
-                        TextView correct = (TextView) findViewById(R.id.incorrect);
+                        TextView correct = (TextView) findViewById(R.id.response);
                         correct.setText("Correct");
+                        correct2 = true;
                         break;
                     }
                     else {
-                        TextView incorrect = (TextView) findViewById(R.id.incorrect);
+                        TextView incorrect = (TextView) findViewById(R.id.response);
                         incorrect.setText("Incorrect");
                         break;
                     }
@@ -80,10 +87,12 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                     Intent i = new Intent(this, PrehistoricFlorida.class);
                     startActivity(i);
                     break;
-                case R.id.next_button :
-                    task++;
-                    hunt();
-                    break;
+                case R.id.next_button:
+                    if (correct2){
+                        task++;
+                        hunt();
+                        break;
+                    }
             }
         }
         if (task == 3) {
@@ -93,12 +102,13 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                     String answer = mEdit.getText().toString();
                     String c = answer.toLowerCase();
                     if (c.equals("saber toothed tiger")) {
-                        TextView correct = (TextView) findViewById(R.id.incorrect);
+                        TextView correct = (TextView) findViewById(R.id.response);
                         correct.setText("Correct");
+                        correct3 = true;
                         break;
                     }
                     else {
-                        TextView incorrect = (TextView) findViewById(R.id.incorrect);
+                        TextView incorrect = (TextView) findViewById(R.id.response);
                         incorrect.setText("Incorrect");
                         break;
                     }
@@ -106,10 +116,12 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                     Intent i = new Intent(this, PrehistoricFlorida.class);
                     startActivity(i);
                     break;
-                case R.id.next_button :
-                    task++;
-                    hunt();
-                    break;
+                case R.id.next_button:
+                    if (correct3){
+                        task++;
+                        hunt();
+                        break;
+                    }
             }
         }
         if (task == 4) {
@@ -119,12 +131,13 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                     String answer = mEdit.getText().toString();
                     String d = answer.toLowerCase();
                     if (d.equals("megalodon")) {
-                        TextView correct = (TextView) findViewById(R.id.incorrect);
+                        TextView correct = (TextView) findViewById(R.id.response);
                         correct.setText("Correct");
+                        correct4 = true;
                         break;
                     }
                     else {
-                        TextView incorrect = (TextView) findViewById(R.id.incorrect);
+                        TextView incorrect = (TextView) findViewById(R.id.response);
                         incorrect.setText("Incorrect");
                         break;
                     }
@@ -132,6 +145,10 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                     Intent i = new Intent(this, PrehistoricFlorida.class);
                     startActivity(i);
                     break;
+                case R.id.next_button:
+                    if (correct2){
+                        break;
+                    }
             }
         }
     }
