@@ -12,6 +12,7 @@
        <item>@string/nine</item>
        <item>@string/ten</item>
    </array>
+<<<<<<< HEAD
     <color name="background">#0678be</color>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
@@ -26,6 +27,9 @@
     <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
     <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
     <integer name="google_play_services_version">4242000</integer>
+=======
+    <color name="background">#90441d</color>
+>>>>>>> 1408bd8bf08886f1d9269e84429a93bf03b35e36
     <string name="Archelon">Archelon</string>
     <string name="Archelon_Info">The Archelon is a species of extinct sea turtle known for being the largest of its kind ever documented. Contrary to most sea turtles,
 the Archelon had a leathery shell, along with a pointed tail and narrow skull. Its diet minly consisted of mollusks, such as squid.</string>
@@ -107,6 +111,7 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="app_name">Prehistoric Florida</string>
     <string name="ar_button">AR</string>
     <string name="archelon_sh">I am the largest turtle to ever live. I used my large, powerful jaws to crush crustaceans and mollusks. I also lacked a hard shell. Which prehistoric animal am I?</string>
+<<<<<<< HEAD
     <string name="auth_client_needs_enabling_title">
       An application requires Google Play Services to be enabled.
   </string>
@@ -142,6 +147,9 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
+=======
+    <string name="back_label"/>
+>>>>>>> 1408bd8bf08886f1d9269e84429a93bf03b35e36
     <string name="correct">Correct</string>
     <string name="eight">8</string>
     <string name="enter_label">Enter</string>
