@@ -24,12 +24,12 @@
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/megatheriumsize.png"
     },
     {
-        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/arrowright.png",
-        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/arrowright.png"
-    },
-    {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/trivia.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/trivia.png"
+    },
+    {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/arrowright.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/arrowright.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/sealevel.png",
@@ -58,10 +58,6 @@
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/sabretoothtiger.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/sabretoothtiger.png"
-    },
-    {
-        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/megalodon.png",
-        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/megalodon.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/megalodonlogo.png",
