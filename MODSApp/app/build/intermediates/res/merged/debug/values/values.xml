@@ -12,7 +12,7 @@
        <item>@string/nine</item>
        <item>@string/ten</item>
    </array>
-    <color name="background">#964514</color>
+    <color name="background">#90441d</color>
     <string name="Archelon">Archelon</string>
     <string name="Archelon_Info">The Archelon is a species of extinct sea turtle known for being the largest of its kind ever documented. Contrary to most sea turtles,
 the Archelon had a leathery shell, along with a pointed tail and narrow skull. Its diet minly consisted of mollusks, such as squid.</string>
@@ -94,12 +94,12 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="app_name">Prehistoric Florida</string>
     <string name="ar_button">AR</string>
     <string name="archelon_sh">I am the largest turtle to ever live. I used my large, powerful jaws to crush crustaceans and mollusks. I also lacked a hard shell. Which prehistoric animal am I?</string>
-    <string name="back_label">Back</string>
+    <string name="back_label"/>
     <string name="correct">Correct</string>
     <string name="eight">8</string>
     <string name="enter_label">Enter</string>
     <string name="evolution_button"/>
-    <string name="feedback">Feedback</string>
+    <string name="feedback"/>
     <string name="finish_label">Finish</string>
     <string name="five">5</string>
     <string name="four">4</string>
@@ -110,7 +110,7 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="main_title">Prehistoric Florida</string>
     <string name="map_label">Map</string>
     <string name="megalodon_sh">My skeleton is made up of almost entirely cartilage. I can grow up to 60 feet and may have produced the strongest bitein the history of the planet, 5 times the bite force of a T. Rex. Which prehistoric animal am I?</string>
-    <string name="next_label">Next</string>
+    <string name="next_label"/>
     <string name="nine">9</string>
     <string name="one">1</string>
     <string name="question_1">1. Which of these animals did not populate Florida?</string>

@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="/home/jonathan/Github/PreHistoric-Florida/MODSApp/app/src/main/assets"/><source path="/home/jonathan/Github/PreHistoric-Florida/MODSApp/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/jonathan/Github/PreHistoric-Florida/MODSApp/app/src/debug/assets"/></dataSet></merger>
-=======
-<merger version="3"><dataSet config="main"><source path="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/assets"/><source path="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/debug/assets"/></dataSet></merger>
->>>>>>> 80834108094934898ba9ef89c37f3bdb565209ff

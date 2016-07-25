@@ -13,24 +13,35 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to the Prehistoric Scavenger Hunt! See if you can figure out the answer to each riddle by searching for information around the exhibit!"
+        android:text="Welcome to the Prehistoric Scavenger Hunt! \n\n See if you can figure out the answer to each riddle by searching for information around the exhibit!"
         android:textSize="30sp"
-        android:layout_marginTop="150dp" />
+        android:layout_marginTop="150dp"
+        android:layout_weight="0.25"
+        android:gravity="center_horizontal" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="173dp"
+        android:layout_marginTop="270dp">
+
+        <Button
+            android:id="@+id/home_button"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:text="@string/home_label"
+            android:background="@drawable/homebutton"
+            android:layout_marginLeft="110dp"
+            android:layout_marginTop="0dp"
+        <Button
+            android:id="@+id/start_button"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:text=""
+            android:background="@drawable/arrowright"
+            android:layout_marginLeft="10dp" />
+
+    </LinearLayout>
 
 
-    <Button
-        android:id="@+id/start_button"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/start_label" />
-    <Button
-        android:id="@+id/home_button"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:text="@string/home_label"
-        android:background="@drawable/homebutton"
-        android:layout_marginLeft="0dp"
-        android:layout_marginTop="450dp"
-        android:layout_weight="0.09" />
 
 </LinearLayout>
