@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="rating">
+       <item>@string/one</item>
+       <item>@string/two</item>
+       <item>@string/three</item>
+       <item>@string/four</item>
+       <item>@string/five</item>
+       <item>@string/six</item>
+       <item>@string/seven</item>
+       <item>@string/eight</item>
+       <item>@string/nine</item>
+       <item>@string/ten</item>
+   </array>
     <color name="background">#964514</color>
     <string name="Archelon">Archelon</string>
     <string name="Archelon_Info">The Archelon is a species of extinct sea turtle known for being the largest of its kind ever documented. Contrary to most sea turtles,
@@ -83,9 +95,13 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="archelon_sh">I am the largest turtle to ever live. I used my large, powerful jaws to crush crustaceans and mollusks. I also lacked a hard shell. Which prehistoric animal am I?</string>
     <string name="back_label">Back</string>
     <string name="correct">Correct</string>
+    <string name="eight">8</string>
     <string name="enter_label">Enter</string>
     <string name="evolution_button"/>
+    <string name="feedback">Feedback</string>
     <string name="finish_label">Finish</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
     <string name="games_label">Games</string>
     <string name="games_menu_title">Games</string>
     <string name="home_label"/>
@@ -94,6 +110,8 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="map_label">Map</string>
     <string name="megalodon_sh">My skeleton is made up of almost entirely cartilage. I can grow up to 60 feet and may have produced the strongest bitein the history of the planet, 5 times the bite force of a T. Rex. Which prehistoric animal am I?</string>
     <string name="next_label">Next</string>
+    <string name="nine">9</string>
+    <string name="one">1</string>
     <string name="question_1">1. Which of these animals did not populate Florida?</string>
     <string name="question_10">10. The sea level was lower than present in prehistoric Florida.</string>
     <string name="question_2">2.  Which of these fossil types have not been found in Florida?</string>
@@ -104,11 +122,17 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="question_7">7. The most recent "prehistoric" animal to live in Florida is the</string>
     <string name="question_8">8. How many dinosaur fossils were found in Florida?</string>
     <string name="question_9">9. Which of these animals were in existance during the time of the dinosaurs?</string>
+    <string name="rating">Rating</string>
     <string name="reptile_sh">I am a fierce aquatic reptile, closely related to a Komodo dragon. Which animal(s) could I be?</string>
     <string name="scavenger_hunt_label"/>
     <string name="sea_level_label"/>
+    <string name="seven">7</string>
+    <string name="six">6</string>
     <string name="size_comparison_button"/>
     <string name="start_label">Start</string>
+    <string name="ten">10</string>
+    <string name="three">3</string>
     <string name="tiger_sh">I am a cat, but not closely related to tigers, cats, or other modern cats. I have very long fangs used for subduing prey. My jaw can open up to 120 degrees. Which prehistoric animal am I?</string>
     <string name="trivia_label"/>
+    <string name="two">2</string>
 </resources>

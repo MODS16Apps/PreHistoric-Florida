@@ -8,5 +8,16 @@
  ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
 -->
 <resources>
-   <array></array>
+   <array name="rating">
+       <item>@string/one</item>
+       <item>@string/two</item>
+       <item>@string/three</item>
+       <item>@string/four</item>
+       <item>@string/five</item>
+       <item>@string/six</item>
+       <item>@string/seven</item>
+       <item>@string/eight</item>
+       <item>@string/nine</item>
+       <item>@string/ten</item>
+   </array>
 </resources>

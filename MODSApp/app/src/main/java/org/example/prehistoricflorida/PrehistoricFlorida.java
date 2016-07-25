@@ -13,15 +13,19 @@ import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.Editable;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.widget.EditText;
 
 public class PrehistoricFlorida extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
+    int rating;
+    String comment;
 
     /**
      * Called when the activity is first created.
@@ -39,6 +43,8 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
         aboutButton.setOnClickListener(this);
         View exitButton = findViewById(R.id.sea_level_button);
         exitButton.setOnClickListener(this);
+        View feedbackButton = findViewById(R.id.feedback_button);
+        feedbackButton.setOnClickListener(this);
     }
 
     // ...
@@ -62,7 +68,45 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
                 Intent l = new Intent(this, SeaLevel.class);
                 startActivity(l);
                 break;
+            case R.id.feedback_button:
+                rating();
+                break;
         }
     }
 
+    public void rating() {
+            new AlertDialog.Builder(this)
+                    .setTitle(R.string.rating)
+                    .setItems(R.array.rating,
+                            new DialogInterface.OnClickListener() {
+                                public void onClick(DialogInterface dialoginterface,
+                                                    int i) {
+                                    rating = i + 1;
+                                    String rate = Integer.toString(rating);
+                                    Log.d(TAG, rate);
+                                    comment();
+                                }
+                            })
+                    .show();
+
+        }
+
+    public void comment() {
+        final EditText edittext = new EditText(this);
+        new AlertDialog.Builder(this)
+
+                .setTitle(R.string.feedback)
+                .setView(edittext)
+
+                .setPositiveButton("Enter", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int whichButton) {
+                        String comment = edittext.getText().toString();
+                        Log.d(TAG, comment);
+
+                    }
+                })
+
+                .show();
+    }
 }
+
