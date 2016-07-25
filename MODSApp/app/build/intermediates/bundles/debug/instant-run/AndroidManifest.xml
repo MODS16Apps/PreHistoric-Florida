@@ -74,10 +74,6 @@
             android:name="org.example.prehistoricflorida.ScavengerHuntStart"
             android:label="ScavengerHuntStart" >
         </activity>
-        <activity
-            android:name="org.example.prehistoricflorida.Feedback"
-            android:label="Feedback" >
-        </activity>
     </application>
 
 </manifest>

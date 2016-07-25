@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/layout-land/main.xml",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/layout-land/main.xml"
+    },
+    {
         "merged": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/layout-land/main.xml",
         "source": "/home/jacob/Dropbox/Code/Github/PreHistoric-Florida/MODSApp/app/src/main/res/layout-land/main.xml"
     }
