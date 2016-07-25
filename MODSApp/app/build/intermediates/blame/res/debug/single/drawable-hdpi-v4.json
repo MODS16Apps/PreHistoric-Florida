@@ -36,16 +36,16 @@
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/games.png"
     },
     {
-        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png",
-        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/res/drawable-hdpi/ic_plusone_medium_off_client.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
     },
     {
-        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/megalodon.png",

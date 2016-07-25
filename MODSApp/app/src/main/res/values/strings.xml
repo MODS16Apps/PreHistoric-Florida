@@ -17,7 +17,7 @@
     <string name="info_button"></string>
     <string name="size_comparison_button"></string>
     <string name="evolution_button"></string>
-    <string name="ar_button">AR</string>
+    <string name="ar_button"></string>
     <string name="games_menu_title">Games</string>
     <string name="trivia_label"></string>
     <string name="scavenger_hunt_label"></string>

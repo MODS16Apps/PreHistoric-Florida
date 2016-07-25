@@ -1,0 +1,4 @@
+CHANGED,/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/prehistoricflorida/R$styleable$override.class
+CHANGED,/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/prehistoricflorida/PrehistoricFlorida$override.class
+CHANGED,/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/prehistoricflorida/R$string$override.class
