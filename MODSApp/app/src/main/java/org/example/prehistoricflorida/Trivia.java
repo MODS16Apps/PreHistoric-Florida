@@ -44,17 +44,12 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a1:
                     question++;
-                    incorrect("C");
-                    try {
-                        Thread.sleep(1000);                 //1000 milliseconds is one second.
-                    } catch(InterruptedException ex) {
-                        Thread.currentThread().interrupt();
-                    }
+                    incorrect("Penguin");
                     triviaGame();
                     break;
                 case R.id.b1:
                     question++;
-                    incorrect("C");
+                    incorrect("Penguin");
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
@@ -66,7 +61,7 @@ public class Trivia extends Activity implements OnClickListener {
                     break;
                 case R.id.d1:
                     question++;
-                    incorrect("C");
+                    incorrect("Penguin");
                     triviaGame();
                     break;
             }
@@ -76,18 +71,18 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a2:
                     question++;
-                    incorrect("D");
+                    incorrect("Dinosaur");
                     triviaGame();
                     break;
                 case R.id.b2:
                     question++;
-                    incorrect("D");
+                    incorrect("Dinosaur");
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c2:
                     question++;
-                    incorrect("D");
+                    incorrect("Dinosaur");
                     triviaGame();
                     break;
                 case R.id.d2:
@@ -105,18 +100,18 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a3:
                     question++;
-                    incorrect("D");
+                    incorrect("530 million years ago");
                     triviaGame();
                     break;
                 case R.id.b3:
                     question++;
-                    incorrect("D");
+                    incorrect("530 million years ago");
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
                 case R.id.c3:
                     question++;
-                    incorrect("D");
+                    incorrect("530 million years ago");
                     triviaGame();
                     break;
                 case R.id.d3:
@@ -132,12 +127,12 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a4:
                     question++;
-                    incorrect("C");
+                    incorrect("sea turtle");
                     triviaGame();
                     break;
                 case R.id.b4:
                     question++;
-                    incorrect("C");
+                    incorrect("sea turtle");
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
@@ -149,7 +144,7 @@ public class Trivia extends Activity implements OnClickListener {
                     break;
                 case R.id.d4:
                     question++;
-                    incorrect("C");
+                    incorrect("sea turtle");
                     triviaGame();
                     break;
             }
@@ -159,7 +154,7 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a5:
                     question++;
-                    incorrect("B");
+                    incorrect("2.6 million");
                     triviaGame();
                     break;
                 case R.id.b5:
@@ -171,12 +166,12 @@ public class Trivia extends Activity implements OnClickListener {
                 // More buttons go here (if any) ...
                 case R.id.c5:
                     question++;
-                    incorrect("B");
+                    incorrect("2.6 million");
                     triviaGame();
                     break;
                 case R.id.d5:
                     question++;
-                    incorrect("B");
+                    incorrect("2.6 million");
                     triviaGame();
                     break;
             }
@@ -186,7 +181,7 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a6:
                     question++;
-                    incorrect("B");
+                    incorrect("Florida was underwater when dinosaurs lived.");
                     triviaGame();
                     break;
                 case R.id.b6:
@@ -198,12 +193,12 @@ public class Trivia extends Activity implements OnClickListener {
                 // More buttons go here (if any) ...
                 case R.id.c6:
                     question++;
-                    incorrect("B");
+                    incorrect("Florida was underwater when dinosaurs lived.");
                     triviaGame();
                     break;
                 case R.id.d6:
                     question++;
-                    incorrect("B");
+                    incorrect("Florida was underwater when dinosaurs lived.");
                     triviaGame();
                     break;
             }
@@ -213,12 +208,12 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a7:
                     question++;
-                    incorrect("C");
+                    incorrect("saber toothed tiger");
                     triviaGame();
                     break;
                 case R.id.b7:
                     question++;
-                    incorrect("C");
+                    incorrect("saber toothed tiger");
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
@@ -230,7 +225,7 @@ public class Trivia extends Activity implements OnClickListener {
                     break;
                 case R.id.d7:
                     question++;
-                    incorrect("C");
+                    incorrect("saber toothed tiger");
                     triviaGame();
                     break;
             }
@@ -240,12 +235,12 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a8:
                     question++;
-                    incorrect("C");
+                    incorrect("0");
                     triviaGame();
                     break;
                 case R.id.b8:
                     question++;
-                    incorrect("C");
+                    incorrect("0");
                     triviaGame();
                     break;
                 // More buttons go here (if any) ...
@@ -257,7 +252,7 @@ public class Trivia extends Activity implements OnClickListener {
                     break;
                 case R.id.d8:
                     question++;
-                    incorrect("C");
+                    incorrect("0");
                     triviaGame();
                     break;
             }
@@ -267,7 +262,7 @@ public class Trivia extends Activity implements OnClickListener {
             switch (v.getId()) {
                 case R.id.a9:
                     question++;
-                    incorrect("B");
+                    incorrect("alligators");
                     triviaGame();
                     break;
                 case R.id.b9:
@@ -279,12 +274,12 @@ public class Trivia extends Activity implements OnClickListener {
                 // More buttons go here (if any) ...
                 case R.id.c9:
                     question++;
-                    incorrect("B");
+                    incorrect("alligators");
                     triviaGame();
                     break;
                 case R.id.d9:
                     question++;
-                    incorrect("B");
+                    incorrect("alligators");
                     triviaGame();
                     break;
             }
@@ -302,7 +297,7 @@ public class Trivia extends Activity implements OnClickListener {
                     startActivity(i);
                     break;
                 case R.id.bfalse:
-                    incorrect("False");
+                    incorrect("True");
                     Intent j = new Intent(this, TriviaScore.class);
                     Bundle c = new Bundle();
                     c.putInt("key", points);
@@ -443,7 +438,7 @@ public class Trivia extends Activity implements OnClickListener {
 
     }
 
-    public void incorrect(String answer) {
+    public void incorrect(final String answer) {
 //        TextView incorrect = (TextView) findViewById(R.id.response);
 //        incorrect.setText("Incorrect. Answer: " + answer);
         AlertDialog.Builder Incorrect = new AlertDialog.Builder(this);
@@ -453,7 +448,7 @@ public class Trivia extends Activity implements OnClickListener {
 
                 Incorrect.setPositiveButton("Next", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int whichButton) {
-
+                        triviaGame();
 
                     }
                 });
@@ -464,19 +459,19 @@ public class Trivia extends Activity implements OnClickListener {
     public void correct() {
 //        TextView correct = (TextView) findViewById(R.id.response);
 //        correct.setText("Correct!");
-
         AlertDialog.Builder Correct = new AlertDialog.Builder(this);
 
         Correct.setTitle(R.string.answer);
         Correct.setMessage(("Correct!"));
         Correct.setPositiveButton("Next", new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int whichButton) {
-
+                triviaGame();
 
             }
         });
 
         Correct.show();
+
     }
 
 }

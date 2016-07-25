@@ -13,8 +13,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="10"
-        android:targetSdkVersion="10" />
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
 
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
@@ -32,48 +32,34 @@
         </activity>
         <activity
             android:name="org.example.prehistoricflorida.Animals"
-            android:label="Animals" >
-        </activity>
+            android:label="Animals" />
         <activity
             android:name="org.example.prehistoricflorida.Games"
-            android:label="Games" >
-        </activity>
-        <activity
-            android:name="org.example.prehistoricflorida.Map"
-            android:label="Map" >
-        </activity>
+            android:label="Games" />
         <activity
             android:name="org.example.prehistoricflorida.SeaLevel"
-            android:label="Sea Level" >
-        </activity>
+            android:label="Sea Level" />
         <activity
             android:name="org.example.prehistoricflorida.AnimalInfo"
-            android:label="Animal Info" >
-        </activity>
+            android:label="Animal Info" />
         <activity
             android:name="org.example.prehistoricflorida.SizeComparison"
-            android:label="Size Comparison" >
-        </activity>
+            android:label="Size Comparison" />
         <activity
             android:name="org.example.prehistoricflorida.Evolution"
-            android:label="Evolution" >
-        </activity>
+            android:label="Evolution" />
         <activity
             android:name="org.example.prehistoricflorida.Trivia"
-            android:label="Trivia" >
-        </activity>
+            android:label="Trivia" />
         <activity
             android:name="org.example.prehistoricflorida.TriviaScore"
-            android:label="TriviaScore  " >
-        </activity>
+            android:label="TriviaScore  " />
         <activity
             android:name="org.example.prehistoricflorida.ScavengerHunt"
-            android:label="ScavengerHunt" >
-        </activity>
+            android:label="ScavengerHunt" />
         <activity
             android:name="org.example.prehistoricflorida.ScavengerHuntStart"
-            android:label="ScavengerHuntStart" >
-        </activity>
+            android:label="ScavengerHuntStart" />
     </application>
 
 </manifest>

@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bd760ebd784bf9b415bf180e3cd5da67b4e6eb02">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aecd81d0c9c611d0f20313bcba8543193b8281c7/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.0.1_f59ba40bb8754a8497f9242a72fff40db408b66c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-4.2.42_a2de3afc04110324bfe14725124080a465be048c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="18c3b2f110b5e84927a903484da954a809720328">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_80aaa88a353a9901f4d00a9228180c26f2107b24/classes.dex" />
+    </item>
+
+</items>
