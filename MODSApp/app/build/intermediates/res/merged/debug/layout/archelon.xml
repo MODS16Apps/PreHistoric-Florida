@@ -51,7 +51,7 @@
             android:layout_marginLeft="125dp" />
 
         <Button
-            android:id="@+id/back_button"
+            android:id="@+id/next_button"
             android:layout_width="125dp"
             android:layout_height="125dp"
             android:text="@string/back_label"

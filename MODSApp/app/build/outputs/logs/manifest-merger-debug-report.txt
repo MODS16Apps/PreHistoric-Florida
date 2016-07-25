@@ -1,117 +1,112 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:1-59:12
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:8:4-32:12
 	package
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:11:7-47
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:8:73-113
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:13:7-32
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:9:25-50
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:12:7-30
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:9:1-24
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:11-69
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:8:14-72
 uses-sdk
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:14:5-73
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:1-69
+MERGED from [com.google.android.gms:play-services:4.2.42] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/AndroidManifest.xml:7:5-42
 	android:targetSdkVersion
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:14:41-70
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:37-66
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:14:15-40
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:11-36
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:5-58:19
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:11:1-29:15
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:11-43
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:11:51-83
 	android:debuggable
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:17:11-36
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:12:5-30
 	android:icon
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:18-54
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:11:14-50
 activity#org.example.prehistoricflorida.PrehistoricFlorida
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:18:9-24:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:13:5-18:16
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:19:15-47
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:13:80-112
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:18:19-83
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:13:15-79
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:14:9-17:25
 action#android.intent.action.MAIN
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:13-65
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:13-73
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:23-70
 activity#org.example.prehistoricflorida.Animals
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:25:9-27:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:19:5-104
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:26:17-40
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:19:69-92
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:25:19-72
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:19:15-68
 activity#org.example.prehistoricflorida.Games
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:28:9-30:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:20:5-100
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:29:13-34
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:20:67-88
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:28:19-70
-activity#org.example.prehistoricflorida.Map
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:31:9-33:20
-	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:32:13-32
-	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:31:19-68
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:20:15-66
 activity#org.example.prehistoricflorida.SeaLevel
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:34:9-36:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:21:5-107
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:35:13-38
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:21:70-95
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:34:19-73
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:21:15-69
 activity#org.example.prehistoricflorida.AnimalInfo
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:37:9-39:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:22:5-111
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:38:13-40
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:22:72-99
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:37:19-75
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:22:15-71
 activity#org.example.prehistoricflorida.SizeComparison
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:40:9-42:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:23:5-119
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:41:13-44
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:23:76-107
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:40:19-79
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:23:15-75
 activity#org.example.prehistoricflorida.Evolution
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:43:9-45:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:24:5-108
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:44:13-38
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:24:71-96
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:43:19-74
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:24:15-70
 activity#org.example.prehistoricflorida.Trivia
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:46:9-48:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:25:5-102
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:47:13-35
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:25:68-90
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:46:19-71
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:25:15-67
 activity#org.example.prehistoricflorida.TriviaScore
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:49:9-51:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:26:5-114
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:50:13-42
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:26:73-102
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:49:19-76
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:26:15-72
 activity#org.example.prehistoricflorida.ScavengerHunt
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:52:9-54:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:27:5-116
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:53:13-42
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:27:75-104
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:52:19-78
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:27:15-74
 activity#org.example.prehistoricflorida.ScavengerHuntStart
-ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:55:9-57:20
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:28:5-126
 	android:label
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:56:13-47
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:28:80-114
 	android:name
-		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:55:19-83
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:28:15-79

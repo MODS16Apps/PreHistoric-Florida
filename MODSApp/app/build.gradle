@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 17
+    compileSdkVersion 14
     buildToolsVersion "24.0.0"
 
     defaultConfig {
         applicationId "org.example.sudoku"
-        minSdkVersion 10
-        targetSdkVersion 10
+        minSdkVersion 14
+        targetSdkVersion 17
     }
 
     buildTypes {
@@ -16,4 +16,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+}
+dependencies {
+    compile 'com.google.android.gms:play-services:4.2.42'
+//    compile 'com.android.support:appcompat-v7:22.2.1'
 }

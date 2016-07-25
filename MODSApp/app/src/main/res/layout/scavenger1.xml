@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_marginBottom="25dip"
-        android:textSize="10dp"
+        android:textSize="20dp"
         android:layout_weight="0.58" />
 
     <EditText
