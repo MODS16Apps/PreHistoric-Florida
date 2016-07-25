@@ -23,13 +23,20 @@
         android:layout_marginBottom="25dip"
         android:textSize="50sp"
         android:layout_weight="0.26" />
+    <ImageView
+        android:layout_width="582dp"
+        android:layout_height="201dp"
+        android:visibility="visible"
+        android:src="@drawable/casteroide" />
+
     <TextView
         android:text="@string/Casteriode_Info"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_marginBottom="25dip"
         android:textSize="30sp"
-        android:layout_weight="0.60" />
+        android:layout_weight="0.18"
+        android:layout_marginTop="15dp" />
 
     <LinearLayout
         android:layout_width="match_parent"
