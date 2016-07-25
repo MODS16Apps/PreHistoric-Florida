@@ -12,7 +12,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 
-public class AnimalInfo extends Activity implements OnClickListener {
+public class
+AnimalInfo extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
     int animal = 1;
 
