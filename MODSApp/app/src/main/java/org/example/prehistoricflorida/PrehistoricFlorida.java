@@ -56,8 +56,8 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
                 startActivity(j);
                 break;
             case R.id.map_button:
-//                Intent i = new Intent(this, Map.class);
-//                startActivity(i);
+                Intent i = new Intent(this, Map.class);
+                startActivity(i);
                 break;
             // More buttons go here (if any) ...
             case R.id.games_button:

@@ -30,9 +30,11 @@ public class Evolution extends Activity implements OnClickListener {
         switch (v.getId()) {
             case R.id.next_button:
                 animal++;
+                evolution();
                 break;
             case R.id.back_button: {
                 animal--;
+                evolution();
                 break;
             }
             case R.id.home_button:
@@ -56,17 +58,16 @@ public class Evolution extends Activity implements OnClickListener {
             homeButton.setOnClickListener(this);
         }
 
-//        if (animal == 2) {
-//            setContentView(R.layout.dugong_size);
-//
-//            View nextButton = findViewById(R.id.next_button);
-//            nextButton.setOnClickListener(this);
-//            View backButton = findViewById(R.id.back_button);
-//            backButton.setOnClickListener(this);
-//            View homeButton = findViewById(R.id.home_button);
-//            homeButton.setOnClickListener(this);
-//        }
-//
-//    }
+        if (animal == 2) {
+            setContentView(R.layout.horse_evolution);
+
+            View nextButton = findViewById(R.id.next_button);
+            nextButton.setOnClickListener(this);
+            View backButton = findViewById(R.id.back_button);
+            backButton.setOnClickListener(this);
+            View homeButton = findViewById(R.id.home_button);
+            homeButton.setOnClickListener(this);
+        }
+
     }
 }

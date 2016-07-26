@@ -23,6 +23,12 @@
         android:layout_marginBottom="25dip"
         android:textSize="50sp"
         android:layout_weight="0.29" />
+    <ImageView
+        android:layout_width="345dp"
+        android:layout_height="281dp"
+        android:visibility="visible"
+        android:src="@drawable/mastadon"
+        android:layout_marginLeft="30dp" />
     <TextView
         android:text="@string/Mastadon_Info"
         android:layout_height="wrap_content"

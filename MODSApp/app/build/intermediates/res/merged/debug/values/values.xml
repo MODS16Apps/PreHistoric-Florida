@@ -38,7 +38,7 @@ its large, broad inscisors, and would remain underwater for extended periods of 
 ecological restructuring.</string>
     <string name="Cave_Bear">Cave Bear</string>
     <string name="Dugong">Dugong</string>
-    <string name="E_Evolution">Modern elephants are the last surviving descendants of of a common ancestor that split and evolved into other species, such as the Wooly Mammoth and Dugong.</string>
+    <string name="E_Evolution">Modern elephants are the last surviving descendants of a common ancestor that split and evolved into other species, such as the Wooly Mammoth and Dugong.</string>
     <string name="Elephant">Modern Elephant</string>
     <string name="Horse">Horse</string>
     <string name="Horse_Info">Ancient three-toed horses were commonly found in Florida and were about the size of a dog. Most resided either in forests or praries. Many fossils
@@ -152,7 +152,9 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="four">4</string>
     <string name="games_label">Games</string>
     <string name="games_menu_title">Games</string>
+    <string name="h_evolutioni">The modern horse has it roots in a dog-sized proto-horse that lived during the prehistoric times. The one-toed horse we know today had ancestors with three or four toes.</string>
     <string name="home_label"/>
+    <string name="horse">Proto-Horse</string>
     <string name="info_button"/>
     <string name="main_title">Prehistoric Florida</string>
     <string name="map_label">Map</string>
@@ -174,6 +176,7 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="reptile_sh">I am a fierce aquatic reptile, closely related to a Komodo dragon. Which animal(s) could I be?</string>
     <string name="scavenger_hunt_label"/>
     <string name="sea_level_label"/>
+    <string name="sealevel">Sea Level Changes</string>
     <string name="seven">7</string>
     <string name="six">6</string>
     <string name="size_comparison_button"/>

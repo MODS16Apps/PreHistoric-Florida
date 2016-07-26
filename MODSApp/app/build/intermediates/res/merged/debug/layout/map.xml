@@ -17,7 +17,7 @@
     android:padding="30dip"
     android:weightSum="1">
     <TextView
-        android:text="Map"
+        android:text="115 million years ago"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_marginBottom="25dip"
