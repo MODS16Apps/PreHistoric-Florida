@@ -4,47 +4,39 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="5897851310347"
-    token="910485398859002873"
-    verifier="COMPATIBLE" >
+    timestamp="5014534576067"
+    token="910485398859002873" >
 
     <task
         name="javac"
-        duration="856" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="1824" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="71" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="4839792382900" >
+    <build timestamp="4798850984738" >
         <artifact
             location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="5858493097031"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="5897851310347"
+        timestamp="4884726987694"
         verifier="COMPATIBLE" >
         <artifact
-            location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/reload-dex/debug/classes.dex"
+            location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/builds/debug/4884726987694/classes.dex"
             type="RELOAD_DEX" />
     </build>
-    <build timestamp="22520494997550" >
+    <build timestamp="5014534576067" >
         <artifact
             location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />

@@ -5,13 +5,12 @@
 the Archelon had a leathery shell, along with a pointed tail and narrow skull. Its diet minly consisted of mollusks, such as squid.</string>
 
     <string name="Wooly_Mammoth">Wooly Mammoth</string>
-    <string name="WM_Info">The Wooly Mammoth lived from 1.8 million to 11,000 years ago. They grew up to 11 feet and weighed around 6 tons, which is about the size of a modern-day
-African elephant. Their diet was herbivourous, which means they ate only plant-based foods. Drastic climate change and hunting contributed to the extiction of these animals,
+    <string name="WM_Info">The Wooly Mammoth lived from 1.8 million to 11,000 years ago. They grew up to 11 feet and weighed around 6 tons. Their diet was herbivourous, which means they ate only plant-based foods. Drastic climate change and hunting contributed to the extiction of these animals,
 although one population was able to survive on Wrangel Island until 4,000 years ago. </string>
 
     <string name="Saber_Toothed_Tiger">Saber Toothed Tiger</string>
-    <string name="STT_Info">The Saber-Toothed Tiger was ferocious prehistoric cat, whose canine teeth grew up to 7 inches and they could open
-    their mouths up extremely wide. These cats were carnivores, which means their diet consisted of animals, such as woolly mammoths, sloths, and other large prey. They
+    <string name="STT_Info">The Saber Toothed Tiger was ferocious prehistoric cat, whose canine teeth grew up to 7 inches and whose mouths could open
+    their mouths up extremely wide. These cats were carnivores, which means their diet consisted of animals, such as wooly mammoths, sloths, and other large prey. They
     became extict 10,000 years ago due to climate change and hunting.
     </string>
 
@@ -23,9 +22,9 @@ likely due to increasing competition from other carnivores.</string>
     <string name="Megatherium_Info">The Megatherium was a giant sloth, and at 20 feet tall was one of the largest mammals in history. They were herbivores, using their large claws
 to strip leaves and bark. The Megatherium went extinct around 10,000 years ago due to human hunting and rapid climate change.</string>
 
-    <string name="Mastadon">Mastadon</string>
-    <string name="Mastadon_Info">The Mastadon was a prehistoric elephant known for their low shoulders and string tusks. Their diet primarilt consisted of leaves and berries, but could also
-be found grazing. The Mastadon went extint due to a mass extinction between eras.</string>
+    <string name="Mastadon">Mastodon</string>
+    <string name="Mastadon_Info">The Mastodon was a prehistoric elephant known for their low shoulders and string tusks. Their diet primarily consisted of leaves and berries, but could also
+be found grazing. The Mastodon went extinct due to a mass extinction between eras.</string>
 
     <string name="Horse">Horse</string>
     <string name="Horse_Info">Ancient three-toed horses were commonly found in Florida and were about the size of a dog. Most resided either in forests or praries. Many fossils
@@ -38,8 +37,8 @@ ecological restructuring.</string>
 
 
     <string name="Cave_Bear">Cave Bear</string>
-    <string name="CB_Info">The Florida Cave Bear weighed about 650 pounds, roughly the size of a modern-day brown bear. It is charactedized by a dome shaped skull and a very
-steep forehead. Its teeth are thought to have done more damage than other species of bear. The Cave Bear went extinct around 8,000 years ago.
+    <string name="CB_Info">The Florida Cave Bear weighed about 650 pounds, roughly the size of a modern-day brown bear. It is characterized by a dome shaped skull and a very
+steep forehead. Its teeth are thought to have done more damage than other species\'. The Cave Bear went extinct around 8,000 years ago.
 </string>
 
     <string name="Dugong">Dugong</string>

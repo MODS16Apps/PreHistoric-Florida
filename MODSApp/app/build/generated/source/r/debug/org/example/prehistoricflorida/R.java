@@ -9,299 +9,117 @@ package org.example.prehistoricflorida;
 
 public final class R {
     public static final class array {
-        public static final int rating=0x7f060000;
+        public static final int rating=0x7f050000;
     }
     public static final class attr {
-        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int adSize=0x7f010000;
-        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int adSizes=0x7f010001;
-        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int adUnitId=0x7f010002;
-        /** <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int cameraBearing=0x7f010004;
-        /** <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int cameraTargetLat=0x7f010005;
-        /** <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int cameraTargetLng=0x7f010006;
-        /** <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int cameraTilt=0x7f010007;
-        /** <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int cameraZoom=0x7f010008;
-        /** <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>none</code></td><td>0</td><td></td></tr>
-<tr><td><code>normal</code></td><td>1</td><td></td></tr>
-<tr><td><code>satellite</code></td><td>2</td><td></td></tr>
-<tr><td><code>terrain</code></td><td>3</td><td></td></tr>
-<tr><td><code>hybrid</code></td><td>4</td><td></td></tr>
-</table>
-         */
-        public static final int mapType=0x7f010003;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int uiCompass=0x7f010009;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int uiRotateGestures=0x7f01000a;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int uiScrollGestures=0x7f01000b;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int uiTiltGestures=0x7f01000c;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int uiZoomControls=0x7f01000d;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int uiZoomGestures=0x7f01000e;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int useViewLifecycle=0x7f01000f;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int zOrderOnTop=0x7f010010;
     }
     public static final class color {
-        public static final int background=0x7f070000;
-        public static final int common_action_bar_splitter=0x7f070001;
-        public static final int common_signin_btn_dark_text_default=0x7f070002;
-        public static final int common_signin_btn_dark_text_disabled=0x7f070003;
-        public static final int common_signin_btn_dark_text_focused=0x7f070004;
-        public static final int common_signin_btn_dark_text_pressed=0x7f070005;
-        public static final int common_signin_btn_default_background=0x7f070006;
-        public static final int common_signin_btn_light_text_default=0x7f070007;
-        public static final int common_signin_btn_light_text_disabled=0x7f070008;
-        public static final int common_signin_btn_light_text_focused=0x7f070009;
-        public static final int common_signin_btn_light_text_pressed=0x7f07000a;
-        public static final int common_signin_btn_text_dark=0x7f07000b;
-        public static final int common_signin_btn_text_light=0x7f07000c;
+        public static final int background=0x7f060000;
     }
     public static final class drawable {
         public static final int animalinfo=0x7f020000;
         public static final int ar=0x7f020001;
         public static final int archelon1db=0x7f020002;
-        public static final int arrowleft=0x7f020003;
-        public static final int arrowright=0x7f020004;
-        public static final int baseum=0x7f020005;
-        public static final int bearcomparison=0x7f020006;
-        public static final int bones=0x7f020007;
-        public static final int casteroide=0x7f020008;
-        public static final int common_signin_btn_icon_dark=0x7f020009;
-        public static final int common_signin_btn_icon_disabled_dark=0x7f02000a;
-        public static final int common_signin_btn_icon_disabled_focus_dark=0x7f02000b;
-        public static final int common_signin_btn_icon_disabled_focus_light=0x7f02000c;
-        public static final int common_signin_btn_icon_disabled_light=0x7f02000d;
-        public static final int common_signin_btn_icon_focus_dark=0x7f02000e;
-        public static final int common_signin_btn_icon_focus_light=0x7f02000f;
-        public static final int common_signin_btn_icon_light=0x7f020010;
-        public static final int common_signin_btn_icon_normal_dark=0x7f020011;
-        public static final int common_signin_btn_icon_normal_light=0x7f020012;
-        public static final int common_signin_btn_icon_pressed_dark=0x7f020013;
-        public static final int common_signin_btn_icon_pressed_light=0x7f020014;
-        public static final int common_signin_btn_text_dark=0x7f020015;
-        public static final int common_signin_btn_text_disabled_dark=0x7f020016;
-        public static final int common_signin_btn_text_disabled_focus_dark=0x7f020017;
-        public static final int common_signin_btn_text_disabled_focus_light=0x7f020018;
-        public static final int common_signin_btn_text_disabled_light=0x7f020019;
-        public static final int common_signin_btn_text_focus_dark=0x7f02001a;
-        public static final int common_signin_btn_text_focus_light=0x7f02001b;
-        public static final int common_signin_btn_text_light=0x7f02001c;
-        public static final int common_signin_btn_text_normal_dark=0x7f02001d;
-        public static final int common_signin_btn_text_normal_light=0x7f02001e;
-        public static final int common_signin_btn_text_pressed_dark=0x7f02001f;
-        public static final int common_signin_btn_text_pressed_light=0x7f020020;
-        public static final int elasmosaurussize=0x7f020021;
-        public static final int enterbutton=0x7f020022;
-        public static final int evolution=0x7f020023;
-        public static final int feedback=0x7f020024;
-        public static final int footprint=0x7f020025;
-        public static final int games=0x7f020026;
-        public static final int homebutton=0x7f020027;
-        public static final int ic_launcher=0x7f020028;
-        public static final int ic_plusone_medium_off_client=0x7f020029;
-        public static final int ic_plusone_small_off_client=0x7f02002a;
-        public static final int ic_plusone_standard_off_client=0x7f02002b;
-        public static final int ic_plusone_tall_off_client=0x7f02002c;
-        public static final int mammoth=0x7f02002d;
-        public static final int mammothsize=0x7f02002e;
-        public static final int map=0x7f02002f;
-        public static final int mastadon=0x7f020030;
-        public static final int mastodon=0x7f020031;
-        public static final int megalodonlogo=0x7f020032;
-        public static final int megalodonmouth=0x7f020033;
-        public static final int megatherium=0x7f020034;
-        public static final int megatheriumsize=0x7f020035;
-        public static final int phorusrhacidae=0x7f020036;
-        public static final int sabretoothtiger=0x7f020037;
-        public static final int scavenger_hunt=0x7f020038;
-        public static final int sealevel=0x7f020039;
-        public static final int sealevelchanging=0x7f02003a;
-        public static final int sizecomp=0x7f02003b;
-        public static final int trivia=0x7f02003c;
+        public static final int archelonsize=0x7f020003;
+        public static final int arrowleft=0x7f020004;
+        public static final int arrowright=0x7f020005;
+        public static final int background=0x7f020006;
+        public static final int background2=0x7f020007;
+        public static final int background3=0x7f020008;
+        public static final int baseum=0x7f020009;
+        public static final int bearcomparison=0x7f02000a;
+        public static final int bones=0x7f02000b;
+        public static final int casteroide=0x7f02000c;
+        public static final int elasmosaurussize=0x7f02000d;
+        public static final int enterbutton=0x7f02000e;
+        public static final int evolution=0x7f02000f;
+        public static final int feedback=0x7f020010;
+        public static final int footprint=0x7f020011;
+        public static final int games=0x7f020012;
+        public static final int homebutton=0x7f020013;
+        public static final int horse_evolution=0x7f020014;
+        public static final int ic_launcher=0x7f020015;
+        public static final int mammoth=0x7f020016;
+        public static final int mammothsize=0x7f020017;
+        public static final int map=0x7f020018;
+        public static final int map2=0x7f020019;
+        public static final int mastadon=0x7f02001a;
+        public static final int mastodon=0x7f02001b;
+        public static final int megalodonlogo=0x7f02001c;
+        public static final int megalodonmouth=0x7f02001d;
+        public static final int megatherium=0x7f02001e;
+        public static final int megatheriumsize=0x7f02001f;
+        public static final int phorusrhacidae=0x7f020020;
+        public static final int sabretoothtiger=0x7f020021;
+        public static final int scavenger_hunt=0x7f020022;
+        public static final int sealevel=0x7f020023;
+        public static final int sealevelchanging=0x7f020024;
+        public static final int sizecomp=0x7f020025;
+        public static final int tree=0x7f020026;
+        public static final int trivia=0x7f020027;
     }
     public static final class id {
-        public static final int a1=0x7f09001b;
-        public static final int a2=0x7f090021;
-        public static final int a3=0x7f090025;
-        public static final int a4=0x7f090029;
-        public static final int a5=0x7f09002d;
-        public static final int a6=0x7f090031;
-        public static final int a7=0x7f090035;
-        public static final int a8=0x7f090039;
-        public static final int a9=0x7f09003d;
-        public static final int animals_button=0x7f09000e;
-        public static final int answer=0x7f090015;
-        public static final int ar_button=0x7f09000b;
-        public static final int atrue=0x7f09001f;
-        public static final int b1=0x7f09001c;
-        public static final int b2=0x7f090022;
-        public static final int b3=0x7f090026;
-        public static final int b4=0x7f09002a;
-        public static final int b5=0x7f09002e;
-        public static final int b6=0x7f090032;
-        public static final int b7=0x7f090036;
-        public static final int b8=0x7f09003a;
-        public static final int b9=0x7f09003e;
-        public static final int back_button=0x7f090006;
-        public static final int bfalse=0x7f090020;
-        public static final int c1=0x7f09001d;
-        public static final int c2=0x7f090023;
-        public static final int c3=0x7f090027;
-        public static final int c4=0x7f09002b;
-        public static final int c5=0x7f09002f;
-        public static final int c6=0x7f090033;
-        public static final int c7=0x7f090037;
-        public static final int c8=0x7f09003b;
-        public static final int c9=0x7f09003f;
-        public static final int d1=0x7f09001e;
-        public static final int d2=0x7f090024;
-        public static final int d3=0x7f090028;
-        public static final int d4=0x7f09002c;
-        public static final int d5=0x7f090030;
-        public static final int d6=0x7f090034;
-        public static final int d7=0x7f090038;
-        public static final int d8=0x7f09003c;
-        public static final int d9=0x7f090040;
-        public static final int enter_button=0x7f090016;
-        public static final int evolution_button=0x7f09000a;
-        public static final int feedback_button=0x7f090013;
-        public static final int finish_button=0x7f090017;
-        public static final int games_button=0x7f09000f;
-        public static final int home_button=0x7f090007;
-        public static final int hybrid=0x7f090000;
-        public static final int imageView12=0x7f090012;
-        public static final int info_button=0x7f090008;
-        public static final int map_button=0x7f090010;
-        public static final int next_button=0x7f090005;
-        public static final int none=0x7f090001;
-        public static final int normal=0x7f090002;
-        public static final int response=0x7f090014;
-        public static final int satellite=0x7f090003;
-        public static final int scavenger_hunt_button=0x7f09000d;
-        public static final int score=0x7f09001a;
-        public static final int sea_level_button=0x7f090011;
-        public static final int size_comparison_button=0x7f090009;
-        public static final int start_button=0x7f090018;
-        public static final int terrain=0x7f090004;
-        public static final int trivia_button=0x7f09000c;
-        public static final int videoView1=0x7f090019;
-    }
-    public static final class integer {
-        public static final int google_play_services_version=0x7f080000;
+        public static final int a1=0x7f090016;
+        public static final int a2=0x7f09001c;
+        public static final int a3=0x7f090020;
+        public static final int a4=0x7f090024;
+        public static final int a5=0x7f090028;
+        public static final int a6=0x7f09002c;
+        public static final int a7=0x7f090030;
+        public static final int a8=0x7f090034;
+        public static final int a9=0x7f090038;
+        public static final int animals_button=0x7f090009;
+        public static final int answer=0x7f090010;
+        public static final int ar_button=0x7f090006;
+        public static final int atrue=0x7f09001a;
+        public static final int b1=0x7f090017;
+        public static final int b2=0x7f09001d;
+        public static final int b3=0x7f090021;
+        public static final int b4=0x7f090025;
+        public static final int b5=0x7f090029;
+        public static final int b6=0x7f09002d;
+        public static final int b7=0x7f090031;
+        public static final int b8=0x7f090035;
+        public static final int b9=0x7f090039;
+        public static final int back_button=0x7f090001;
+        public static final int bfalse=0x7f09001b;
+        public static final int c1=0x7f090018;
+        public static final int c2=0x7f09001e;
+        public static final int c3=0x7f090022;
+        public static final int c4=0x7f090026;
+        public static final int c5=0x7f09002a;
+        public static final int c6=0x7f09002e;
+        public static final int c7=0x7f090032;
+        public static final int c8=0x7f090036;
+        public static final int c9=0x7f09003a;
+        public static final int credits=0x7f09003c;
+        public static final int d1=0x7f090019;
+        public static final int d2=0x7f09001f;
+        public static final int d3=0x7f090023;
+        public static final int d4=0x7f090027;
+        public static final int d5=0x7f09002b;
+        public static final int d6=0x7f09002f;
+        public static final int d7=0x7f090033;
+        public static final int d8=0x7f090037;
+        public static final int d9=0x7f09003b;
+        public static final int enter_button=0x7f090011;
+        public static final int evolution_button=0x7f090005;
+        public static final int feedback_button=0x7f09000e;
+        public static final int finish_button=0x7f090012;
+        public static final int games_button=0x7f09000a;
+        public static final int home_button=0x7f090002;
+        public static final int imageView12=0x7f09000d;
+        public static final int info_button=0x7f090003;
+        public static final int map_button=0x7f09000b;
+        public static final int next_button=0x7f090000;
+        public static final int response=0x7f09000f;
+        public static final int scavenger_hunt_button=0x7f090008;
+        public static final int score=0x7f090015;
+        public static final int sea_level_button=0x7f09000c;
+        public static final int size_comparison_button=0x7f090004;
+        public static final int start_button=0x7f090013;
+        public static final int trivia_button=0x7f090007;
+        public static final int videoView1=0x7f090014;
     }
     public static final class layout {
         public static final int animals_info=0x7f030000;
@@ -310,490 +128,165 @@ containing a value of this type.
         public static final int archelon_size=0x7f030003;
         public static final int bear=0x7f030004;
         public static final int casteriode=0x7f030005;
-        public static final int dugong_size=0x7f030006;
-        public static final int elephant_evolution=0x7f030007;
-        public static final int evolution=0x7f030008;
-        public static final int games_menu=0x7f030009;
-        public static final int horse=0x7f03000a;
-        public static final int horse_evolution=0x7f03000b;
-        public static final int main=0x7f03000c;
-        public static final int main1=0x7f03000d;
-        public static final int mammoth=0x7f03000e;
-        public static final int mammoth_size=0x7f03000f;
-        public static final int map=0x7f030010;
-        public static final int mastodon=0x7f030011;
-        public static final int megalodon_size=0x7f030012;
-        public static final int megatherium=0x7f030013;
-        public static final int megatherium_size=0x7f030014;
-        public static final int phorusrhacidae=0x7f030015;
-        public static final int scavenger1=0x7f030016;
-        public static final int scavenger2=0x7f030017;
-        public static final int scavenger3=0x7f030018;
-        public static final int scavenger4=0x7f030019;
-        public static final int scavengerhuntfinish=0x7f03001a;
-        public static final int scavengerhuntstart=0x7f03001b;
-        public static final int sealevel=0x7f03001c;
-        public static final int size_comparison=0x7f03001d;
-        public static final int tiger=0x7f03001e;
-        public static final int trivia_score=0x7f03001f;
-        public static final int triviaq1=0x7f030020;
-        public static final int triviaq10=0x7f030021;
-        public static final int triviaq2=0x7f030022;
-        public static final int triviaq3=0x7f030023;
-        public static final int triviaq4=0x7f030024;
-        public static final int triviaq5=0x7f030025;
-        public static final int triviaq6=0x7f030026;
-        public static final int triviaq7=0x7f030027;
-        public static final int triviaq8=0x7f030028;
-        public static final int triviaq9=0x7f030029;
+        public static final int credits=0x7f030006;
+        public static final int dugong_size=0x7f030007;
+        public static final int elephant_evolution=0x7f030008;
+        public static final int evolution=0x7f030009;
+        public static final int games_menu=0x7f03000a;
+        public static final int horse=0x7f03000b;
+        public static final int horse_evolution=0x7f03000c;
+        public static final int main=0x7f03000d;
+        public static final int main1=0x7f03000e;
+        public static final int mammoth=0x7f03000f;
+        public static final int mammoth_size=0x7f030010;
+        public static final int map=0x7f030011;
+        public static final int mastodon=0x7f030012;
+        public static final int megalodon_size=0x7f030013;
+        public static final int megatherium=0x7f030014;
+        public static final int megatherium_size=0x7f030015;
+        public static final int phorusrhacidae=0x7f030016;
+        public static final int scavenger1=0x7f030017;
+        public static final int scavenger2=0x7f030018;
+        public static final int scavenger3=0x7f030019;
+        public static final int scavenger4=0x7f03001a;
+        public static final int scavengerhuntfinish=0x7f03001b;
+        public static final int scavengerhuntstart=0x7f03001c;
+        public static final int sealevel=0x7f03001d;
+        public static final int size_comparison=0x7f03001e;
+        public static final int tiger=0x7f03001f;
+        public static final int trivia_score=0x7f030020;
+        public static final int triviaq1=0x7f030021;
+        public static final int triviaq10=0x7f030022;
+        public static final int triviaq2=0x7f030023;
+        public static final int triviaq3=0x7f030024;
+        public static final int triviaq4=0x7f030025;
+        public static final int triviaq5=0x7f030026;
+        public static final int triviaq6=0x7f030027;
+        public static final int triviaq7=0x7f030028;
+        public static final int triviaq8=0x7f030029;
+        public static final int triviaq9=0x7f03002a;
+    }
+    public static final class menu {
+        public static final int menu=0x7f080000;
     }
     public static final class raw {
         public static final int sea_level_changing=0x7f040000;
     }
     public static final class string {
-        public static final int Archelon=0x7f05001a;
-        public static final int Archelon_Info=0x7f05001b;
-        public static final int CB_Info=0x7f05001c;
-        public static final int Casteriode=0x7f05001d;
-        public static final int Casteriode_Info=0x7f05001e;
-        public static final int Cave_Bear=0x7f05001f;
-        public static final int Dugong=0x7f050020;
-        public static final int E_Evolution=0x7f050021;
-        public static final int Elephant=0x7f050022;
-        public static final int Horse=0x7f050023;
-        public static final int Horse_Info=0x7f050024;
-        public static final int Mastadon=0x7f050025;
-        public static final int Mastadon_Info=0x7f050026;
-        public static final int Megalodon=0x7f050027;
-        public static final int Megatherium=0x7f050028;
-        public static final int Megatherium_Info=0x7f050029;
-        public static final int Phorusrhacidae=0x7f05002a;
-        public static final int Phorusrhacidae_Info=0x7f05002b;
-        public static final int STT_Info=0x7f05002c;
-        public static final int Saber_Toothed_Tiger=0x7f05002d;
-        public static final int WM_Info=0x7f05002e;
-        public static final int Wooly_Mammoth=0x7f05002f;
-        public static final int animal_info=0x7f050030;
-        public static final int animal_label=0x7f050031;
-        public static final int animal_menu_title=0x7f050032;
-        public static final int answer=0x7f050033;
-        public static final int answer_1a=0x7f050034;
-        public static final int answer_1b=0x7f050035;
-        public static final int answer_1c=0x7f050036;
-        public static final int answer_1d=0x7f050037;
-        public static final int answer_2a=0x7f050038;
-        public static final int answer_2b=0x7f050039;
-        public static final int answer_2c=0x7f05003a;
-        public static final int answer_2d=0x7f05003b;
-        public static final int answer_3a=0x7f05003c;
-        public static final int answer_3b=0x7f05003d;
-        public static final int answer_3c=0x7f05003e;
-        public static final int answer_3d=0x7f05003f;
-        public static final int answer_4a=0x7f050040;
-        public static final int answer_4b=0x7f050041;
-        public static final int answer_4c=0x7f050042;
-        public static final int answer_4d=0x7f050043;
-        public static final int answer_5a=0x7f050044;
-        public static final int answer_5b=0x7f050045;
-        public static final int answer_5c=0x7f050046;
-        public static final int answer_5d=0x7f050047;
-        public static final int answer_6a=0x7f050048;
-        public static final int answer_6b=0x7f050049;
-        public static final int answer_6c=0x7f05004a;
-        public static final int answer_6d=0x7f05004b;
-        public static final int answer_7a=0x7f05004c;
-        public static final int answer_7b=0x7f05004d;
-        public static final int answer_7c=0x7f05004e;
-        public static final int answer_7d=0x7f05004f;
-        public static final int answer_8a=0x7f050050;
-        public static final int answer_8b=0x7f050051;
-        public static final int answer_8c=0x7f050052;
-        public static final int answer_8d=0x7f050053;
-        public static final int answer_9a=0x7f050054;
-        public static final int answer_9b=0x7f050055;
-        public static final int answer_9c=0x7f050056;
-        public static final int answer_9d=0x7f050057;
-        public static final int answer_false=0x7f050058;
-        public static final int answer_true=0x7f050059;
-        public static final int app_name=0x7f05005a;
-        public static final int ar_button=0x7f05005b;
-        public static final int archelon_sh=0x7f05005c;
-        public static final int auth_client_needs_enabling_title=0x7f050000;
-        public static final int auth_client_needs_installation_title=0x7f050001;
-        public static final int auth_client_needs_update_title=0x7f050002;
-        public static final int auth_client_play_services_err_notification_msg=0x7f050003;
-        public static final int auth_client_requested_by_msg=0x7f050004;
-        public static final int auth_client_using_bad_version_title=0x7f050005;
-        public static final int back_label=0x7f05005d;
-        public static final int common_google_play_services_enable_button=0x7f050006;
-        public static final int common_google_play_services_enable_text=0x7f050007;
-        public static final int common_google_play_services_enable_title=0x7f050008;
-        public static final int common_google_play_services_install_button=0x7f050009;
-        public static final int common_google_play_services_install_text_phone=0x7f05000a;
-        public static final int common_google_play_services_install_text_tablet=0x7f05000b;
-        public static final int common_google_play_services_install_title=0x7f05000c;
-        public static final int common_google_play_services_invalid_account_text=0x7f05000d;
-        public static final int common_google_play_services_invalid_account_title=0x7f05000e;
-        public static final int common_google_play_services_network_error_text=0x7f05000f;
-        public static final int common_google_play_services_network_error_title=0x7f050010;
-        public static final int common_google_play_services_unknown_issue=0x7f050011;
-        public static final int common_google_play_services_unsupported_date_text=0x7f050012;
-        public static final int common_google_play_services_unsupported_text=0x7f050013;
-        public static final int common_google_play_services_unsupported_title=0x7f050014;
-        public static final int common_google_play_services_update_button=0x7f050015;
-        public static final int common_google_play_services_update_text=0x7f050016;
-        public static final int common_google_play_services_update_title=0x7f050017;
-        public static final int common_signin_button_text=0x7f050018;
-        public static final int common_signin_button_text_long=0x7f050019;
-        public static final int correct=0x7f05005e;
-        public static final int eight=0x7f05005f;
-        public static final int enter_label=0x7f050060;
-        public static final int evolution_button=0x7f050061;
-        public static final int feedback=0x7f050062;
-        public static final int finish_label=0x7f050063;
-        public static final int five=0x7f050064;
-        public static final int four=0x7f050065;
-        public static final int games_label=0x7f050066;
-        public static final int games_menu_title=0x7f050067;
-        public static final int h_evolutioni=0x7f050068;
-        public static final int home_label=0x7f050069;
-        public static final int horse=0x7f05006a;
-        public static final int info_button=0x7f05006b;
-        public static final int main_title=0x7f05006c;
-        public static final int map_label=0x7f05006d;
-        public static final int megalodon_sh=0x7f05006e;
-        public static final int next_label=0x7f05006f;
-        public static final int nine=0x7f050070;
-        public static final int one=0x7f050071;
-        public static final int question_1=0x7f050072;
-        public static final int question_10=0x7f050073;
-        public static final int question_2=0x7f050074;
-        public static final int question_3=0x7f050075;
-        public static final int question_4=0x7f050076;
-        public static final int question_5=0x7f050077;
-        public static final int question_6=0x7f050078;
-        public static final int question_7=0x7f050079;
-        public static final int question_8=0x7f05007a;
-        public static final int question_9=0x7f05007b;
-        public static final int rating=0x7f05007c;
-        public static final int reptile_sh=0x7f05007d;
-        public static final int scavenger_hunt_label=0x7f05007e;
-        public static final int sea_level_label=0x7f05007f;
-        public static final int sealevel=0x7f050080;
-        public static final int seven=0x7f050081;
-        public static final int six=0x7f050082;
-        public static final int size_comparison_button=0x7f050083;
-        public static final int start_label=0x7f050084;
-        public static final int ten=0x7f050085;
-        public static final int three=0x7f050086;
-        public static final int tiger_sh=0x7f050087;
-        public static final int title_activity_map=0x7f050088;
-        public static final int trivia_label=0x7f050089;
-        public static final int two=0x7f05008a;
+        public static final int Archelon=0x7f070000;
+        public static final int Archelon_Info=0x7f070001;
+        public static final int CB_Info=0x7f070002;
+        public static final int Casteriode=0x7f070003;
+        public static final int Casteriode_Info=0x7f070004;
+        public static final int Cave_Bear=0x7f070005;
+        public static final int Dugong=0x7f070006;
+        public static final int E_Evolution=0x7f070007;
+        public static final int Elephant=0x7f070008;
+        public static final int Horse=0x7f070009;
+        public static final int Horse_Info=0x7f07000a;
+        public static final int Mastadon=0x7f07000b;
+        public static final int Mastadon_Info=0x7f07000c;
+        public static final int Megalodon=0x7f07000d;
+        public static final int Megatherium=0x7f07000e;
+        public static final int Megatherium_Info=0x7f07000f;
+        public static final int Phorusrhacidae=0x7f070010;
+        public static final int Phorusrhacidae_Info=0x7f070011;
+        public static final int STT_Info=0x7f070012;
+        public static final int Saber_Toothed_Tiger=0x7f070013;
+        public static final int WM_Info=0x7f070014;
+        public static final int Wooly_Mammoth=0x7f070015;
+        public static final int animal_info=0x7f070016;
+        public static final int animal_label=0x7f070017;
+        public static final int animal_menu_title=0x7f070018;
+        public static final int answer=0x7f070019;
+        public static final int answer_1a=0x7f07001a;
+        public static final int answer_1b=0x7f07001b;
+        public static final int answer_1c=0x7f07001c;
+        public static final int answer_1d=0x7f07001d;
+        public static final int answer_2a=0x7f07001e;
+        public static final int answer_2b=0x7f07001f;
+        public static final int answer_2c=0x7f070020;
+        public static final int answer_2d=0x7f070021;
+        public static final int answer_3a=0x7f070022;
+        public static final int answer_3b=0x7f070023;
+        public static final int answer_3c=0x7f070024;
+        public static final int answer_3d=0x7f070025;
+        public static final int answer_4a=0x7f070026;
+        public static final int answer_4b=0x7f070027;
+        public static final int answer_4c=0x7f070028;
+        public static final int answer_4d=0x7f070029;
+        public static final int answer_5a=0x7f07002a;
+        public static final int answer_5b=0x7f07002b;
+        public static final int answer_5c=0x7f07002c;
+        public static final int answer_5d=0x7f07002d;
+        public static final int answer_6a=0x7f07002e;
+        public static final int answer_6b=0x7f07002f;
+        public static final int answer_6c=0x7f070030;
+        public static final int answer_6d=0x7f070031;
+        public static final int answer_7a=0x7f070032;
+        public static final int answer_7b=0x7f070033;
+        public static final int answer_7c=0x7f070034;
+        public static final int answer_7d=0x7f070035;
+        public static final int answer_8a=0x7f070036;
+        public static final int answer_8b=0x7f070037;
+        public static final int answer_8c=0x7f070038;
+        public static final int answer_8d=0x7f070039;
+        public static final int answer_9a=0x7f07003a;
+        public static final int answer_9b=0x7f07003b;
+        public static final int answer_9c=0x7f07003c;
+        public static final int answer_9d=0x7f07003d;
+        public static final int answer_false=0x7f07003e;
+        public static final int answer_true=0x7f07003f;
+        public static final int app_name=0x7f070040;
+        public static final int ar_button=0x7f070041;
+        public static final int archelon_sh=0x7f070042;
+        public static final int back_label=0x7f070043;
+        public static final int correct=0x7f070044;
+        public static final int credit_title=0x7f070045;
+        public static final int credits=0x7f070046;
+        public static final int eight=0x7f070047;
+        public static final int enter_label=0x7f070048;
+        public static final int evolution_button=0x7f070049;
+        public static final int feedback=0x7f07004a;
+        public static final int finish_label=0x7f07004b;
+        public static final int five=0x7f07004c;
+        public static final int four=0x7f07004d;
+        public static final int games_label=0x7f07004e;
+        public static final int games_menu_title=0x7f07004f;
+        public static final int h_evolutioni=0x7f070050;
+        public static final int home_label=0x7f070051;
+        public static final int horse=0x7f070052;
+        public static final int info_button=0x7f070053;
+        public static final int main_title=0x7f070054;
+        public static final int map_label=0x7f070055;
+        public static final int megalodon_sh=0x7f070056;
+        public static final int next_label=0x7f070057;
+        public static final int nine=0x7f070058;
+        public static final int one=0x7f070059;
+        public static final int question_1=0x7f07005a;
+        public static final int question_10=0x7f07005b;
+        public static final int question_2=0x7f07005c;
+        public static final int question_3=0x7f07005d;
+        public static final int question_4=0x7f07005e;
+        public static final int question_5=0x7f07005f;
+        public static final int question_6=0x7f070060;
+        public static final int question_7=0x7f070061;
+        public static final int question_8=0x7f070062;
+        public static final int question_9=0x7f070063;
+        public static final int rating=0x7f070064;
+        public static final int reptile_sh=0x7f070065;
+        public static final int scavenger_hunt_label=0x7f070066;
+        public static final int sea_level_label=0x7f070067;
+        public static final int sealevel=0x7f070068;
+        public static final int seven=0x7f070069;
+        public static final int six=0x7f07006a;
+        public static final int size_comparison_button=0x7f07006b;
+        public static final int start_label=0x7f07006c;
+        public static final int ten=0x7f07006d;
+        public static final int three=0x7f07006e;
+        public static final int tiger_sh=0x7f07006f;
+        public static final int title_activity_map=0x7f070070;
+        public static final int trivia_label=0x7f070071;
+        public static final int two=0x7f070072;
     }
-    public static final class styleable {
-        /** Attributes that can be used with a AdsAttrs.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdsAttrs_adSize org.example.sudoku:adSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adSizes org.example.sudoku:adSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adUnitId org.example.sudoku:adUnitId}</code></td><td></td></tr>
-           </table>
-           @see #AdsAttrs_adSize
-           @see #AdsAttrs_adSizes
-           @see #AdsAttrs_adUnitId
-         */
-        public static final int[] AdsAttrs = {
-            0x7f010000, 0x7f010001, 0x7f010002
-        };
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#adSize}
-          attribute's value can be found in the {@link #AdsAttrs} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:adSize
-        */
-        public static final int AdsAttrs_adSize = 0;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#adSizes}
-          attribute's value can be found in the {@link #AdsAttrs} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:adSizes
-        */
-        public static final int AdsAttrs_adSizes = 1;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#adUnitId}
-          attribute's value can be found in the {@link #AdsAttrs} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:adUnitId
-        */
-        public static final int AdsAttrs_adUnitId = 2;
-        /** Attributes that can be used with a MapAttrs.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MapAttrs_cameraBearing org.example.sudoku:cameraBearing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLat org.example.sudoku:cameraTargetLat}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLng org.example.sudoku:cameraTargetLng}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTilt org.example.sudoku:cameraTilt}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraZoom org.example.sudoku:cameraZoom}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_mapType org.example.sudoku:mapType}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiCompass org.example.sudoku:uiCompass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiRotateGestures org.example.sudoku:uiRotateGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiScrollGestures org.example.sudoku:uiScrollGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiTiltGestures org.example.sudoku:uiTiltGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomControls org.example.sudoku:uiZoomControls}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomGestures org.example.sudoku:uiZoomGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_useViewLifecycle org.example.sudoku:useViewLifecycle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_zOrderOnTop org.example.sudoku:zOrderOnTop}</code></td><td></td></tr>
-           </table>
-           @see #MapAttrs_cameraBearing
-           @see #MapAttrs_cameraTargetLat
-           @see #MapAttrs_cameraTargetLng
-           @see #MapAttrs_cameraTilt
-           @see #MapAttrs_cameraZoom
-           @see #MapAttrs_mapType
-           @see #MapAttrs_uiCompass
-           @see #MapAttrs_uiRotateGestures
-           @see #MapAttrs_uiScrollGestures
-           @see #MapAttrs_uiTiltGestures
-           @see #MapAttrs_uiZoomControls
-           @see #MapAttrs_uiZoomGestures
-           @see #MapAttrs_useViewLifecycle
-           @see #MapAttrs_zOrderOnTop
-         */
-        public static final int[] MapAttrs = {
-            0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006,
-            0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a,
-            0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e,
-            0x7f01000f, 0x7f010010
-        };
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#cameraBearing}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:cameraBearing
-        */
-        public static final int MapAttrs_cameraBearing = 1;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#cameraTargetLat}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:cameraTargetLat
-        */
-        public static final int MapAttrs_cameraTargetLat = 2;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#cameraTargetLng}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:cameraTargetLng
-        */
-        public static final int MapAttrs_cameraTargetLng = 3;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#cameraTilt}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:cameraTilt
-        */
-        public static final int MapAttrs_cameraTilt = 4;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#cameraZoom}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:cameraZoom
-        */
-        public static final int MapAttrs_cameraZoom = 5;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#mapType}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>none</code></td><td>0</td><td></td></tr>
-<tr><td><code>normal</code></td><td>1</td><td></td></tr>
-<tr><td><code>satellite</code></td><td>2</td><td></td></tr>
-<tr><td><code>terrain</code></td><td>3</td><td></td></tr>
-<tr><td><code>hybrid</code></td><td>4</td><td></td></tr>
-</table>
-          @attr name org.example.sudoku:mapType
-        */
-        public static final int MapAttrs_mapType = 0;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#uiCompass}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:uiCompass
-        */
-        public static final int MapAttrs_uiCompass = 6;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#uiRotateGestures}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:uiRotateGestures
-        */
-        public static final int MapAttrs_uiRotateGestures = 7;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#uiScrollGestures}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:uiScrollGestures
-        */
-        public static final int MapAttrs_uiScrollGestures = 8;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#uiTiltGestures}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:uiTiltGestures
-        */
-        public static final int MapAttrs_uiTiltGestures = 9;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#uiZoomControls}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:uiZoomControls
-        */
-        public static final int MapAttrs_uiZoomControls = 10;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#uiZoomGestures}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:uiZoomGestures
-        */
-        public static final int MapAttrs_uiZoomGestures = 11;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#useViewLifecycle}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:useViewLifecycle
-        */
-        public static final int MapAttrs_useViewLifecycle = 12;
-        /**
-          <p>This symbol is the offset where the {@link org.example.sudoku.R.attr#zOrderOnTop}
-          attribute's value can be found in the {@link #MapAttrs} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name org.example.sudoku:zOrderOnTop
-        */
-        public static final int MapAttrs_zOrderOnTop = 13;
-    };
 }

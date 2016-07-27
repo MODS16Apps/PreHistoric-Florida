@@ -46,4 +46,9 @@
     <string name="ten">10</string>
     <string name="title_activity_map">Map</string>
 
+    <string name="credit_title">Credits</string>
+    <string name="credits">Jacob - Java\nJonathan - UI\nNikita and Anna - Graphics</string>
+
+
+
 </resources>
