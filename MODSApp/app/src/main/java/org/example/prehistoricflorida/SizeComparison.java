@@ -48,7 +48,7 @@ public class SizeComparison extends Activity implements OnClickListener {
 
 
         if (animal == 1) {
-            setContentView(R.layout.archelon_size);
+            setContentView(R.layout.megatherium_size);
 
             View nextButton = findViewById(R.id.next_button);
             nextButton.setOnClickListener(this);
@@ -79,7 +79,7 @@ public class SizeComparison extends Activity implements OnClickListener {
         }
 
         if (animal == 4) {
-            setContentView(R.layout.megatherium_size);
+            setContentView(R.layout.archelon_size);
 
             View nextButton = findViewById(R.id.next_button);
             nextButton.setOnClickListener(this);

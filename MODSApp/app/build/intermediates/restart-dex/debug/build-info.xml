@@ -4,27 +4,27 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="15364341236326"
+    timestamp="6415792195801"
     token="910485398859002873" >
 
     <task
         name="javac"
-        duration="5312" />
+        duration="110" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1272" />
+        duration="71" />
     <task
         name="verifier"
-        duration="21" />
+        duration="2" />
 
     <artifact
         location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="15364341236326" >
+    <build timestamp="6415792195801" >
         <artifact
             location="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
