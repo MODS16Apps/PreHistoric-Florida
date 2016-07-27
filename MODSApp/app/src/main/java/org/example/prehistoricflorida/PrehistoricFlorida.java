@@ -47,6 +47,26 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
         feedbackButton.setOnClickListener(this);
     }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        super.onCreateOptionsMenu(menu);
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.credits:
+                Intent k = new Intent(this, Credits.class);
+                startActivity(k);
+                break;
+            // More items go here (if any) ...
+        }
+        return false;
+    }
+
     // ...
 
     public void onClick(View v) {

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <array name="rating">
        <item>@string/one</item>
        <item>@string/two</item>
@@ -12,25 +12,12 @@
        <item>@string/nine</item>
        <item>@string/ten</item>
    </array>
-    <color name="background">#90441d</color>
-    <color name="common_action_bar_splitter">#d2d2d2</color>
-    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
-    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
-    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
-    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
-    <color name="common_signin_btn_default_background">#FFDD4B39</color>
-    <color name="common_signin_btn_light_text_default">#FF737373</color>
-    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
-    <color name="common_signin_btn_light_text_focused">#FF737373</color>
-    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
-    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
-    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
-    <integer name="google_play_services_version">4242000</integer>
+    <color name="background">@drawable/background</color>
     <string name="Archelon">Archelon</string>
     <string name="Archelon_Info">The Archelon is a species of extinct sea turtle known for being the largest of its kind ever documented. Contrary to most sea turtles,
 the Archelon had a leathery shell, along with a pointed tail and narrow skull. Its diet minly consisted of mollusks, such as squid.</string>
-    <string name="CB_Info">The Florida Cave Bear weighed about 650 pounds, roughly the size of a modern-day brown bear. It is charactedized by a dome shaped skull and a very
-steep forehead. Its teeth are thought to have done more damage than other species of bear. The Cave Bear went extinct around 8,000 years ago.
+    <string name="CB_Info">The Florida Cave Bear weighed about 650 pounds, roughly the size of a modern-day brown bear. It is characterized by a dome shaped skull and a very
+steep forehead. Its teeth are thought to have done more damage than other species\'. The Cave Bear went extinct around 8,000 years ago.
 </string>
     <string name="Casteriode">Casteriode</string>
     <string name="Casteriode_Info">The Casteroide is an ancient species of beaver known for being the largest beaver to ever exist. The creature is characterized by
@@ -43,9 +30,9 @@ ecological restructuring.</string>
     <string name="Horse">Horse</string>
     <string name="Horse_Info">Ancient three-toed horses were commonly found in Florida and were about the size of a dog. Most resided either in forests or praries. Many fossils
 can still be found today.</string>
-    <string name="Mastadon">Mastadon</string>
-    <string name="Mastadon_Info">The Mastadon was a prehistoric elephant known for their low shoulders and string tusks. Their diet primarilt consisted of leaves and berries, but could also
-be found grazing. The Mastadon went extint due to a mass extinction between eras.</string>
+    <string name="Mastadon">Mastodon</string>
+    <string name="Mastadon_Info">The Mastodon was a prehistoric elephant known for their low shoulders and string tusks. Their diet primarily consisted of leaves and berries, but could also
+be found grazing. The Mastodon went extinct due to a mass extinction between eras.</string>
     <string name="Megalodon">Megalodon</string>
     <string name="Megatherium">Megatherium</string>
     <string name="Megatherium_Info">The Megatherium was a giant sloth, and at 20 feet tall was one of the largest mammals in history. They were herbivores, using their large claws
@@ -53,13 +40,12 @@ to strip leaves and bark. The Megatherium went extinct around 10,000 years ago d
     <string name="Phorusrhacidae">Phorusrhacidae</string>
     <string name="Phorusrhacidae_Info">The Phorusrhacidae was large flightless bird that existed from 62 million to 2.5 million years ago. They were carnivores, and their extiction was most
 likely due to increasing competition from other carnivores.</string>
-    <string name="STT_Info">The Saber-Toothed Tiger was ferocious prehistoric cat, whose canine teeth grew up to 7 inches and they could open
-    their mouths up extremely wide. These cats were carnivores, which means their diet consisted of animals, such as woolly mammoths, sloths, and other large prey. They
+    <string name="STT_Info">The Saber Toothed Tiger was ferocious prehistoric cat, whose canine teeth grew up to 7 inches and whose mouths could open
+    their mouths up extremely wide. These cats were carnivores, which means their diet consisted of animals, such as wooly mammoths, sloths, and other large prey. They
     became extict 10,000 years ago due to climate change and hunting.
     </string>
     <string name="Saber_Toothed_Tiger">Saber Toothed Tiger</string>
-    <string name="WM_Info">The Wooly Mammoth lived from 1.8 million to 11,000 years ago. They grew up to 11 feet and weighed around 6 tons, which is about the size of a modern-day
-African elephant. Their diet was herbivourous, which means they ate only plant-based foods. Drastic climate change and hunting contributed to the extiction of these animals,
+    <string name="WM_Info">The Wooly Mammoth lived from 1.8 million to 11,000 years ago. They grew up to 11 feet and weighed around 6 tons. Their diet was herbivourous, which means they ate only plant-based foods. Drastic climate change and hunting contributed to the extiction of these animals,
 although one population was able to survive on Wrangel Island until 4,000 years ago. </string>
     <string name="Wooly_Mammoth">Wooly Mammoth</string>
     <string name="animal_info">Animal Name</string>
@@ -107,42 +93,10 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="app_name">Prehistoric Florida</string>
     <string name="ar_button"/>
     <string name="archelon_sh">I am the largest turtle to ever live. I used my large, powerful jaws to crush crustaceans and mollusks. I also lacked a hard shell. Which prehistoric animal am I?</string>
-    <string name="auth_client_needs_enabling_title">
-      An application requires Google Play Services to be enabled.
-  </string>
-    <string name="auth_client_needs_installation_title">
-      An application requires installation of Google Play Services.
-  </string>
-    <string name="auth_client_needs_update_title">
-      An application requires an update for Google Play Services.
-  </string>
-    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
-    <string name="auth_client_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
-    <string name="auth_client_using_bad_version_title">
-      An application attempted to use a bad version of Google Play Services.
-  </string>
     <string name="back_label"/>
-    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
-    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
-    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
-    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
-    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
-    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
-    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
-    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
-    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
-    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
-    <string name="common_google_play_services_network_error_title">Network Error</string>
-    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
-    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
-    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
-    <string name="common_google_play_services_unsupported_title">Google Play services</string>
-    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
-    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
-    <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
-    <string name="common_signin_button_text">Sign in</string>
-    <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="correct">Correct</string>
+    <string name="credit_title">Credits</string>
+    <string name="credits">Jacob - Java\nJonathan - UI\nNikita and Anna - Graphics</string>
     <string name="eight">8</string>
     <string name="enter_label">Enter</string>
     <string name="evolution_button"/>

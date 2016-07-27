@@ -16,13 +16,17 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="17" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <application
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
             android:name="org.example.prehistoricflorida.PrehistoricFlorida"
-            android:label="@string/app_name" >
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -31,34 +35,52 @@
         </activity>
         <activity
             android:name="org.example.prehistoricflorida.Animals"
-            android:label="Animals" />
+            android:label="Animals"
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.Games"
-            android:label="Games" />
+            android:label="Games"
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.SeaLevel"
-            android:label="Sea Level" />
+            android:label="Sea Level"
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.AnimalInfo"
-            android:label="Animal Info" />
+            android:label="Animal Info"
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.SizeComparison"
-            android:label="Size Comparison" />
+            android:label="Size Comparison"
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.Evolution"
-            android:label="Evolution" />
+            android:label="Evolution"
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.Trivia"
-            android:label="Trivia" />
+            android:label="Trivia"
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.TriviaScore"
-            android:label="TriviaScore  " />
+            android:label="TriviaScore  "
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.ScavengerHunt"
-            android:label="ScavengerHunt" />
+            android:label="ScavengerHunt"
+            android:screenOrientation="portrait" />
         <activity
             android:name="org.example.prehistoricflorida.ScavengerHuntStart"
-            android:label="ScavengerHuntStart" />
+            android:label="ScavengerHuntStart"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.example.prehistoricflorida.Map"
+            android:label="Map"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="org.example.prehistoricflorida.Credits"
+            android:label="Credits"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
