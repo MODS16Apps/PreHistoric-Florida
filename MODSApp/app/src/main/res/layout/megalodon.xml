@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material,
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose.
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background"
+    android:gravity="center"
+    android:padding="30dip"
+    android:weightSum="1">
+    <TextView
+        android:text="@string/Megalodon"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="25dip"
+        android:textSize="50sp"
+        android:layout_marginTop="5dp" />
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:visibility="visible"-->
+        <!--android:src="@drawable/archelon1db"-->
+        <!--android:layout_weight="0.34" />-->
+    <TextView
+        android:text="@string/Megalodon_Info"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="25dip"
+        android:textSize="30sp"
+        android:layout_weight="0.30"
+        android:layout_marginTop="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="135dp">
+
+        <Button
+            android:id="@+id/back_button"
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="@string/back_label"
+            android:background="@drawable/arrowleft"
+            android:layout_marginLeft="70dp">
+        </Button>
+            <!--android:visibility=""/>-->
+        <Button
+            android:id="@+id/home_button"
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="@string/home_label"
+            android:background="@drawable/homebutton"
+            android:layout_marginLeft="10dp" />
+        <Button
+            android:id="@+id/next_button"
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:text="@string/next_label"
+            android:background="@drawable/arrowright"
+            android:layout_marginLeft="10dp"
+            android:visibility="visible"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

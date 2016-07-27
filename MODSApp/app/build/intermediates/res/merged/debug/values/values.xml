@@ -19,9 +19,9 @@ the Archelon had a leathery shell, along with a pointed tail and narrow skull. I
     <string name="CB_Info">The Florida Cave Bear weighed about 650 pounds, roughly the size of a modern-day brown bear. It is characterized by a dome shaped skull and a very
 steep forehead. Its teeth are thought to have done more damage than other species\'. The Cave Bear went extinct around 8,000 years ago.
 </string>
-    <string name="Casteriode">Casteriode</string>
-    <string name="Casteriode_Info">The Casteroide is an ancient species of beaver known for being the largest beaver to ever exist. The creature is characterized by
-its large, broad inscisors, and would remain underwater for extended periods of time. The extinction of the Casteriode was most likely caused by widespread
+    <string name="Casteroide">Casteroide</string>
+    <string name="Casteroide_Info">The Casteroide is an ancient species of beaver known for being the largest beaver to ever exist. The creature is characterized by
+its large, broad inscisors, and would remain underwater for extended periods of time. The extinction of the Casteroide was most likely caused by widespread
 ecological restructuring.</string>
     <string name="Cave_Bear">Cave Bear</string>
     <string name="Dugong">Dugong</string>
@@ -34,6 +34,7 @@ can still be found today.</string>
     <string name="Mastadon_Info">The Mastodon was a prehistoric elephant known for their low shoulders and string tusks. Their diet primarily consisted of leaves and berries, but could also
 be found grazing. The Mastodon went extinct due to a mass extinction between eras.</string>
     <string name="Megalodon">Megalodon</string>
+    <string name="Megalodon_Info">The Megalodon lived around 15.9-2.6 million years ago. These huge sharks were one of the largest predators in history, growing up to 50 feet long and weighing 114 tons. They were carnivores with very large teeth, and the name Megalodon means "big tooth".</string>
     <string name="Megatherium">Megatherium</string>
     <string name="Megatherium_Info">The Megatherium was a giant sloth, and at 20 feet tall was one of the largest mammals in history. They were herbivores, using their large claws
 to strip leaves and bark. The Megatherium went extinct around 10,000 years ago due to human hunting and rapid climate change.</string>

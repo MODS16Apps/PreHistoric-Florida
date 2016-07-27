@@ -24,10 +24,11 @@
         android:textSize="50sp"
         android:layout_weight="0.30" />
     <ImageView
-        android:layout_width="429dp"
-        android:layout_height="250dp"
+        android:layout_width="251dp"
+        android:layout_height="173dp"
         android:visibility="visible"
-        android:src="@drawable/cavebear" />
+        android:src="@drawable/cavebear"
+        android:layout_weight="0.09" />
     <TextView
         android:text="@string/CB_Info"
         android:layout_height="wrap_content"

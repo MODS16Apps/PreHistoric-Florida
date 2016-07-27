@@ -4,6 +4,10 @@
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/layout/animals_menu.xml"
     },
     {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/layout/megalodon.xml",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/layout/megalodon.xml"
+    },
+    {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/layout/trivia_score.xml",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/layout/trivia_score.xml"
     },

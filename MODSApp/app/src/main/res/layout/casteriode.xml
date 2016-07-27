@@ -17,7 +17,7 @@
     android:padding="30dip"
     android:weightSum="1">
     <TextView
-        android:text="@string/Casteriode"
+        android:text="@string/Casteroide"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_marginBottom="25dip"
@@ -31,7 +31,7 @@
         android:layout_weight="0.05" />
 
     <TextView
-        android:text="@string/Casteriode_Info"
+        android:text="@string/Casteroide_Info"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_marginBottom="25dip"

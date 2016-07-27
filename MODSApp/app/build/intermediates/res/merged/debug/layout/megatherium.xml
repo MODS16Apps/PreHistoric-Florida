@@ -37,7 +37,8 @@
             android:layout_width="wrap_content"
             android:layout_height="357dp"
             android:visibility="visible"
-            android:src="@drawable/megatherium" />
+            android:src="@drawable/megatherium"
+            android:layout_marginTop="50dp" />
 
     </LinearLayout>
 

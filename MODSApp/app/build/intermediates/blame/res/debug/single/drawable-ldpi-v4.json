@@ -16,8 +16,16 @@
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/archelonsize.jpg"
     },
     {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/beaver.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/beaver.png"
+    },
+    {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/map.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/map.png"
+    },
+    {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/horse.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/horse.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/arrowleft.png",
@@ -78,6 +86,10 @@
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/archelon1db.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/archelon1db.png"
+    },
+    {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/cavebear.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-ldpi/cavebear.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/sabretoothtiger.png",

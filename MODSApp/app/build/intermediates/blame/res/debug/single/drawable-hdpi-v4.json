@@ -16,6 +16,10 @@
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/enterbutton.png"
     },
     {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cavebear.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/cavebear.png"
+    },
+    {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/footprint.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/footprint.png"
     },
@@ -50,6 +54,10 @@
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/map.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/map.png"
+    },
+    {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/horse.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/horse.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.png",
@@ -136,12 +144,12 @@
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/archelonsize.jpg"
     },
     {
-        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background2.png",
-        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/background2.png"
-    },
-    {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sealevelchanging.gif",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/sealevelchanging.gif"
+    },
+    {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background2.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/background2.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
@@ -154,5 +162,9 @@
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/elasmosaurussize.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/elasmosaurussize.png"
+    },
+    {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/beaver.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/res/drawable-hdpi/beaver.png"
     }
 ]
