@@ -8,5 +8,5 @@
  ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
 -->
 <resources>
-   <color name="background">#90441d</color>
+   <color name="background">@drawable/background</color>
 </resources>
