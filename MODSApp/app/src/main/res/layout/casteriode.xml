@@ -24,10 +24,11 @@
         android:textSize="50sp"
         android:layout_weight="0.26" />
     <ImageView
-        android:layout_width="582dp"
-        android:layout_height="201dp"
+        android:layout_width="313dp"
+        android:layout_height="wrap_content"
         android:visibility="visible"
-        android:src="@drawable/casteroide" />
+        android:src="@drawable/beaver"
+        android:layout_weight="0.05" />
 
     <TextView
         android:text="@string/Casteriode_Info"

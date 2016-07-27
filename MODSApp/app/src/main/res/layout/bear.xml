@@ -23,13 +23,19 @@
         android:layout_marginBottom="25dip"
         android:textSize="50sp"
         android:layout_weight="0.30" />
+    <ImageView
+        android:layout_width="429dp"
+        android:layout_height="250dp"
+        android:visibility="visible"
+        android:src="@drawable/cavebear" />
     <TextView
         android:text="@string/CB_Info"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:layout_marginBottom="25dip"
         android:textSize="30sp"
-        android:layout_weight="0.60" />
+        android:layout_weight="0.60"
+        android:layout_marginTop="5dp" />
 
     <LinearLayout
         android:layout_width="match_parent"
