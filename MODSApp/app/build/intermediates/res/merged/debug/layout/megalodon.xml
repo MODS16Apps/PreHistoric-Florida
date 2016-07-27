@@ -23,12 +23,12 @@
         android:layout_marginBottom="25dip"
         android:textSize="50sp"
         android:layout_marginTop="5dp" />
-    <!--<ImageView-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="200dp"-->
-        <!--android:visibility="visible"-->
-        <!--android:src="@drawable/archelon1db"-->
-        <!--android:layout_weight="0.34" />-->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:visibility="visible"
+        android:src="@drawable/megalodon"
+        android:layout_weight="0.34" />
     <TextView
         android:text="@string/Megalodon_Info"
         android:layout_height="wrap_content"

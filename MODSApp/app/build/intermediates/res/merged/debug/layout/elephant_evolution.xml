@@ -23,13 +23,26 @@
         android:layout_marginBottom="25dip"
         android:textSize="50sp"
         android:layout_weight="0.29" />
-    <TextView
-        android:text="@string/E_Evolution"
-        android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:layout_marginBottom="25dip"
-        android:textSize="30sp"
-        android:layout_weight="0.60" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="559dp">
+        <TextView
+            android:text="@string/E_Evolution"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="25dip"
+            android:textSize="30sp"
+            android:layout_weight="0.60"
+            android:layout_marginLeft="0dp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:src="@drawable/elephantevo"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="5dp" />
+    </LinearLayout>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="135dp">

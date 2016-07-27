@@ -68,7 +68,8 @@
             android:text="@string/ar_button"
             android:background="@drawable/ar"
             android:layout_marginLeft="75dp"
-            android:layout_marginTop="75dp" />
+            android:layout_marginTop="75dp"
+            android:visibility="gone"/>
     </LinearLayout>
 
 
