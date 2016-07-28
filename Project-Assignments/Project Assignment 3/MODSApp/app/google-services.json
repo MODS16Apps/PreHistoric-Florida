@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "329841733376",
+    "project_id": "mods-prehistoric-florida"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329841733376:android:aa4a7d860506c202",
+        "android_client_info": {
+          "package_name": "org.example.prehistoricflorida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbdSvadgOW1E9axo3Ubc7xiyT_h2ELlJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-81436686-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

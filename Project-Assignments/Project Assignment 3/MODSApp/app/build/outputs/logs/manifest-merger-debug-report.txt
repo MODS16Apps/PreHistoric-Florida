@@ -1,0 +1,388 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:8:4-49:12
+	package
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:8:73-113
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:9:25-50
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:9:1-24
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:8:14-72
+uses-sdk
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:1-69
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.2.1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:37-66
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:10:11-36
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:11:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:12:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:12:22-76
+application
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:14:5-46:15
+MERGED from [com.google.android.gms:play-services-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.2.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:14:55-87
+	android:debuggable
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:15:5-30
+	android:icon
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:14:18-54
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:14:88-149
+activity#org.example.prehistoricflorida.PrehistoricFlorida
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:5-21:16
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:113-149
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:80-112
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:16:15-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:17:9-20:25
+action#android.intent.action.MAIN
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:18:13-65
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:18:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:19:13-73
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:19:23-70
+activity#org.example.prehistoricflorida.Animals
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:22:5-23:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:23:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:22:69-92
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:22:15-68
+activity#org.example.prehistoricflorida.Games
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:24:5-25:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:25:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:24:67-88
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:24:15-66
+activity#org.example.prehistoricflorida.SeaLevel
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:26:5-27:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:27:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:26:70-95
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:26:15-69
+activity#org.example.prehistoricflorida.AnimalInfo
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:28:5-29:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:29:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:28:72-99
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:28:15-71
+activity#org.example.prehistoricflorida.SizeComparison
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:30:5-31:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:31:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:30:76-107
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:30:15-75
+activity#org.example.prehistoricflorida.Evolution
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:32:5-33:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:33:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:32:71-96
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:32:15-70
+activity#org.example.prehistoricflorida.Trivia
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:34:5-35:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:35:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:34:68-90
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:34:15-67
+activity#org.example.prehistoricflorida.TriviaScore
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:36:5-37:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:37:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:36:73-102
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:36:15-72
+activity#org.example.prehistoricflorida.ScavengerHunt
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:38:5-39:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:39:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:38:75-104
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:38:15-74
+activity#org.example.prehistoricflorida.ScavengerHuntStart
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:40:5-41:57
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:41:9-45
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:40:80-114
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:40:15-79
+activity#org.example.prehistoricflorida.Map
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:42:9-43:61
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:42:69-88
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:42:19-68
+activity#org.example.prehistoricflorida.Credits
+ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:44:9-45:61
+	android:screenOrientation
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:44:73-96
+	android:name
+		ADDED from /home/jacob/Github/PreHistoric-Florida/MODSApp/app/src/main/AndroidManifest.xml:44:19-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/AndroidManifest.xml:22:13-58
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/AndroidManifest.xml:37:11-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:9:13-58
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] /home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/AndroidManifest.xml:55:25-77

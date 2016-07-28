@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material,
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose.
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background"
+    android:gravity="center"
+    android:padding="30dip"
+    android:weightSum="1">
+    <TextView
+        android:text="@string/question_6"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="25dip"
+        android:textSize="50dp"
+        android:layout_weight="0.34" />
+    <TextView
+        android:id="@+id/response"
+        android:text=""
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="25dip"
+        android:textSize="10dp"
+        android:layout_weight="0.58" />
+    <Button
+        android:id="@+id/a6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/answer_6a" />
+    <Button
+        android:id="@+id/b6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/answer_6b" />
+    <Button
+        android:id="@+id/c6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/answer_6c" />
+    <Button
+        android:id="@+id/d6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/answer_6d" />
+</LinearLayout>

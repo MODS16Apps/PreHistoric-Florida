@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband3 for more book information.
+-->
+<LinearLayout
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent"
+   android:background="@color/background"
+   android:gravity="center"
+   android:padding="30dip"
+    android:weightSum="1">
+
+   <TextView
+      android:text="@string/main_title"
+      android:layout_height="wrap_content"
+      android:layout_width="wrap_content"
+      android:layout_marginBottom="25dip"
+      android:textSize="50sp"
+       android:paddingTop="40dp" />
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="250dp"
+       android:visibility="visible"
+       android:src="@drawable/megalodonlogo"
+       android:layout_weight="0.34" />
+
+   <LinearLayout
+       android:orientation="horizontal"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center">
+
+      <Button
+          android:id="@+id/animals_button"
+          android:layout_width="150dp"
+          android:layout_height="150dp"
+          android:text=""
+          android:background="@drawable/footprint"
+          android:layout_marginLeft="95dp" />
+      <Button
+          android:id="@+id/games_button"
+          android:layout_width="150dp"
+          android:layout_height="150dp"
+          android:text=""
+          android:background="@drawable/games"
+          android:paddingLeft="40dp"
+          android:layout_marginLeft="50dp" />
+   </LinearLayout>
+
+   <LinearLayout
+       android:orientation="horizontal"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center">
+
+      <Button
+         android:id="@+id/map_button"
+         android:layout_width="150dp"
+         android:layout_height="150dp"
+         android:background="@drawable/map"
+         android:text=""
+          android:layout_marginLeft="95dp"
+          android:layout_marginTop="50dp" />
+      <Button
+         android:id="@+id/sea_level_button"
+         android:layout_width="150dp"
+         android:layout_height="150dp"
+          android:background="@drawable/sealevel"
+         android:text=""
+          android:layout_marginTop="50dp"
+          android:layout_marginLeft="50dp" />
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="331dp"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:layout_marginTop="20dp"
+       android:layout_marginLeft="35dp">
+      <ImageView
+          android:layout_width="78dp"
+          android:layout_height="64dp"
+          android:id="@+id/imageView12"
+          android:background="@drawable/baseum"
+          android:layout_gravity="center_horizontal"
+          android:layout_marginTop="30dp"
+          android:layout_marginRight="0dp"
+          android:layout_marginLeft="90dp" />
+      <Button
+          android:id="@+id/feedback_button"
+          android:layout_width="50dp"
+          android:layout_height="50dp"
+          android:text="@string/feedback"
+          android:background="@drawable/feedback"
+          android:layout_marginLeft="50dp" />
+   </LinearLayout>
+</LinearLayout>
