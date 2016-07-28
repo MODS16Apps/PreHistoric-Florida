@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 14
+    compileSdkVersion 22
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "org.example.sudoku"
+        applicationId "org.example.prehistoricflorida"
         minSdkVersion 14
-        targetSdkVersion 17
+        targetSdkVersion 22
     }
 
     buildTypes {
@@ -19,7 +19,7 @@ android {
 }
 dependencies {
 //    compile 'com.google.android.gms:play-services:9.0.0'
-//    compile 'com.google.android.gms:play-services-analytics:9.2.0'
-//    apply plugin: 'com.google.gms.google-services'
+    compile 'com.google.android.gms:play-services-analytics:9.2.1'
+    apply plugin: 'com.google.gms.google-services'
 //    compile 'com.android.support:appcompat-v7:22.2.1'
 }

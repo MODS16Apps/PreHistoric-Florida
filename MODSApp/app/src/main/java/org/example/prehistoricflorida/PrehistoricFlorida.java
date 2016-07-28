@@ -22,10 +22,15 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.EditText;
 
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
+
 public class PrehistoricFlorida extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
     int rating;
+    static final String exhibit = "Prehistoric Florida";
     String comment;
+    private Tracker mTracker;
 
     /**
      * Called when the activity is first created.
@@ -45,6 +50,9 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
         exitButton.setOnClickListener(this);
         View feedbackButton = findViewById(R.id.feedback_button);
         feedbackButton.setOnClickListener(this);
+
+        googleAnalytics application = (googleAnalytics) getApplication();
+        mTracker = application.getDefaultTracker();
     }
 
     @Override
@@ -105,11 +113,22 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
                                     String rate = Integer.toString(rating);
                                     Log.d(TAG, rate);
                                     comment();
+                                    mTracker.send(new HitBuilders.EventBuilder()
+                                            .setCategory("Event")
+                                            .setLabel("Rating")
+                                            .setAction(rate)
+//                                            .setValue(rating)
+                                            .build());
+                                            Log.d(TAG, "analytics");
+
+
                                 }
                             })
                     .show();
 
-        }
+
+
+    }
 
     public void comment() {
         final EditText edittext = new EditText(this);
@@ -122,6 +141,13 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
                     public void onClick(DialogInterface dialog, int whichButton) {
                         String comment = edittext.getText().toString();
                         Log.d(TAG, comment);
+                        mTracker.send(new HitBuilders.EventBuilder()
+                                .setCategory("Event")
+                                .setLabel("Comment")
+                                .setAction(comment)
+//                                .setValue(rating)
+                                .build());
+                                Log.d(TAG, "analytics");
 
                     }
                 })
