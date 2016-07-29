@@ -12,14 +12,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 
-public class
-AnimalInfo extends Activity implements OnClickListener {
+public class AnimalInfo extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
-    int animal = 1;
+    int animal = 1; // sets animal number to 1
 
-    /**
-     * Called when the activity is first created.
-     */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,16 +27,16 @@ AnimalInfo extends Activity implements OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.next_button:
-                animal++;
+                animal++; // calls next animal
                 animals();
                 break;
             case R.id.back_button:
-                animal--;
+                animal--; // calls previous animal
                 animals();
                 break;
             case R.id.home_button:
                 Intent i = new Intent(this, PrehistoricFlorida.class);
-                startActivity(i);
+                startActivity(i); // goes to the home page
                 break;
         }
     }

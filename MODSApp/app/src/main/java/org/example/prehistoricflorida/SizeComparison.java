@@ -17,9 +17,7 @@ public class SizeComparison extends Activity implements OnClickListener {
 
     int animal = 1;
 
-    /**
-     * Called when the activity is first created.
-     */
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -56,18 +54,18 @@ public class SizeComparison extends Activity implements OnClickListener {
             homeButton.setOnClickListener(this);
         }
 
+//        if (animal == 2) {
+//            setContentView(R.layout.dugong_size);
+//
+//            View nextButton = findViewById(R.id.next_button);
+//            nextButton.setOnClickListener(this);
+//            View backButton = findViewById(R.id.back_button);
+//            backButton.setOnClickListener(this);
+//            View homeButton = findViewById(R.id.home_button);
+//            homeButton.setOnClickListener(this);
+//        }
+
         if (animal == 2) {
-            setContentView(R.layout.dugong_size);
-
-            View nextButton = findViewById(R.id.next_button);
-            nextButton.setOnClickListener(this);
-            View backButton = findViewById(R.id.back_button);
-            backButton.setOnClickListener(this);
-            View homeButton = findViewById(R.id.home_button);
-            homeButton.setOnClickListener(this);
-        }
-
-        if (animal == 3) {
             setContentView(R.layout.mammoth_size);
 
             View nextButton = findViewById(R.id.next_button);
@@ -78,7 +76,7 @@ public class SizeComparison extends Activity implements OnClickListener {
             homeButton.setOnClickListener(this);
         }
 
-        if (animal == 4) {
+        if (animal == 3) {
             setContentView(R.layout.archelon_size);
 
             View nextButton = findViewById(R.id.next_button);
@@ -89,7 +87,7 @@ public class SizeComparison extends Activity implements OnClickListener {
             homeButton.setOnClickListener(this);
         }
 
-        if (animal == 5) {
+        if (animal == 4) {
             setContentView(R.layout.megalodon_size);
 
             View backButton = findViewById(R.id.back_button);

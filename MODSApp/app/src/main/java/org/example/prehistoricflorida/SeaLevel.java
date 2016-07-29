@@ -1,8 +1,5 @@
 package org.example.prehistoricflorida;
 
-/**
- * Created by Marcus on 7/10/2015.
- */
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -17,9 +14,9 @@ public class SeaLevel extends Activity {
 
         final VideoView videoView = (VideoView) findViewById(R.id.videoView1);
 
-        Uri video = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.sea_level_changing); //do not add any extension
+        Uri video = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.sea_level_changing); //finds .mp4 file
         videoView.setVideoURI(video);
-        videoView.start();
+        videoView.start(); // starts .mp4
 
         videoView.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
             @Override

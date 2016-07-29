@@ -24,14 +24,14 @@ public class TriviaScore extends Activity implements OnClickListener {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Bundle b = getIntent().getExtras();
-        int points = 0; // or other values
-        if (b != null)
-            points = b.getInt("key");
+        int points = 0;
+        if (b != null) // checks to see if bundle is empty
+            points = b.getInt("key"); // assignes bundle key value to points variable
         setContentView(R.layout.trivia_score);
 
 ///        String point = Integer.toString(points);
-        TextView final_score = (TextView) findViewById(R.id.score);
-        final_score.setText(String.valueOf(points + "/10 correct"));
+        TextView final_score = (TextView) findViewById(R.id.score); // initializes text view
+        final_score.setText(String.valueOf(points + "/10 correct")); // sets string to text view
 
         View nextButton = findViewById(R.id.home_button);
         nextButton.setOnClickListener(this);

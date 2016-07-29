@@ -18,9 +18,9 @@ import java.util.concurrent.TimeUnit;
 
 public class ScavengerHunt extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
-    int task = 1;
+    int task = 1; // sets task # equal to 1
     EditText mEdit;
-    boolean correct1, correct2, correct3, correct4;
+    boolean correct1, correct2, correct3, correct4; // used for making sure the user got the answer right before being able to continue
 
     /**
      * Called when the activity is first created.
@@ -39,9 +39,9 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                 mEdit = (EditText) findViewById(R.id.answer);
                 switch (v.getId()) {
                     case R.id.enter_button:
-                        String answer = mEdit.getText().toString();
-                        String a = answer.toLowerCase();
-                        if (a.equals("archelon")) {
+                        String answer = mEdit.getText().toString(); // graps text from edit text box and converts to string
+                        String a = answer.toLowerCase(); // sets answer to all lower case
+                        if (a.equals("archelon")) { // chacks to see if entered string matches the answer
                             TextView correct = (TextView) findViewById(R.id.response);
                             correct.setText("Correct");
                             correct1 = true;
@@ -57,7 +57,7 @@ public class ScavengerHunt extends Activity implements OnClickListener {
                         break;
                     case R.id.next_button:
                         if (correct1) {
-                            task++;
+                            task++; // starts bext task
                             hunt();
                             break;
                         }

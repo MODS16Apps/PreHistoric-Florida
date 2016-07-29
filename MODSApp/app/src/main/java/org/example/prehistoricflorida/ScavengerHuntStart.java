@@ -34,11 +34,11 @@ public class ScavengerHuntStart extends Activity implements OnClickListener {
         switch (v.getId()){
                 case R.id.start_button:
                     Intent j = new Intent(this, ScavengerHunt.class);
-                    startActivity(j);
+                    startActivity(j); // starts scavenger hunt
                     break;
                 case R.id.home_button:
                     Intent i = new Intent(this, PrehistoricFlorida.class);
-                    startActivity(i);
+                    startActivity(i); // goes to main menu
                     break;
             }
     }

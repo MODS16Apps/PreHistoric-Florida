@@ -57,7 +57,7 @@
             android:background="@drawable/enterbutton"
             android:layout_marginLeft="5dp" />
         <Button
-            android:id="@+id/next_button"
+            android:id="@+id/finish_button"
             android:layout_width="125dp"
             android:layout_height="125dp"
             android:text=""
