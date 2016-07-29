@@ -98,7 +98,7 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="answer_7a">mastodon</string>
     <string name="answer_7b">megalodon</string>
     <string name="answer_7c">sabre tooth tiger</string>
-    <string name="answer_7d">tyrannasaurous rex</string>
+    <string name="answer_7d">tyrannosaurus rex</string>
     <string name="answer_8a">40</string>
     <string name="answer_8b">3.5 million</string>
     <string name="answer_8c">0</string>
@@ -180,7 +180,7 @@ although one population was able to survive on Wrangel Island until 4,000 years 
     <string name="question_6">6. Why are there no dinosaur fossils in Florida?</string>
     <string name="question_7">7. The most recent "prehistoric" animal to live in Florida is the</string>
     <string name="question_8">8. How many dinosaur fossils were found in Florida?</string>
-    <string name="question_9">9. Which of these animals were in existance during the time of the dinosaurs?</string>
+    <string name="question_9">9. Which of these animals were in existence during the time of the dinosaurs?</string>
     <string name="rating">Rating</string>
     <string name="reptile_sh">I am a fierce aquatic reptile, closely related to a Komodo dragon. Which animal(s) could I be?</string>
     <string name="scavenger_hunt_label"/>
