@@ -14,7 +14,7 @@ import android.view.View.OnClickListener;
 
 public class Evolution extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
-    int animal = 1;
+    int animal = 1; // sets animal # to 1
 
     /**
      * Called when the activity is first created.
@@ -29,17 +29,17 @@ public class Evolution extends Activity implements OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.next_button:
-                animal++;
+                animal++; // calls next animal
                 evolution();
                 break;
             case R.id.back_button: {
-                animal--;
+                animal--; // calls previous animal
                 evolution();
                 break;
             }
             case R.id.home_button:
                 Intent i = new Intent(this, PrehistoricFlorida.class);
-                startActivity(i);
+                startActivity(i); // goes to main menu
                 break;
         }
     }

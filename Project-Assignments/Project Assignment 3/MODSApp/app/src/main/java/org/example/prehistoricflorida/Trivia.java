@@ -23,8 +23,8 @@ import android.widget.TextView;
 
 public class Trivia extends Activity implements OnClickListener {
     private static final String TAG = "PrehistoricFlorida";
-    int question = 1;
-    int points = 0;
+    int question = 1;// sets question #  equal to 1
+    int points = 0; // creates points
     /**
      * Called when the activity is first created.
      */
@@ -43,8 +43,8 @@ public class Trivia extends Activity implements OnClickListener {
         if (question == 1) {
             switch (v.getId()) {
                 case R.id.a1:
-                    question++;
-                    incorrect("Penguin");
+                    question++; // clls next question
+                    incorrect("Penguin");// calls incorrect function with argument
                     triviaGame();
                     break;
                 case R.id.b1:
@@ -56,7 +56,7 @@ public class Trivia extends Activity implements OnClickListener {
                 case R.id.c1:
                     points++;
                     question++;
-                    correct();
+                    correct(); // calls correct function
                     triviaGame();
                     break;
                 case R.id.d1:
@@ -299,9 +299,9 @@ public class Trivia extends Activity implements OnClickListener {
                 case R.id.bfalse:
                     incorrect("True");
                     Intent j = new Intent(this, TriviaScore.class);
-                    Bundle c = new Bundle();
-                    c.putInt("key", points);
-                    j.putExtras(c);
+                    Bundle c = new Bundle(); // creates bundle
+                    c.putInt("key", points); // adds points variable to bundle
+                    j.putExtras(c); // adds bundle to intent
                     startActivity(j);
                     break;
             }
@@ -441,13 +441,13 @@ public class Trivia extends Activity implements OnClickListener {
     public void incorrect(final String answer) {
 //        TextView incorrect = (TextView) findViewById(R.id.response);
 //        incorrect.setText("Incorrect. Answer: " + answer);
-        AlertDialog.Builder Incorrect = new AlertDialog.Builder(this);
+        AlertDialog.Builder Incorrect = new AlertDialog.Builder(this); // displays alert dialog with argument
 
                 Incorrect.setTitle(R.string.answer);
-                Incorrect.setMessage(("Incorrect. Answer: " + answer));
+                Incorrect.setMessage(("Incorrect.\n Answer: " + answer));
 
                 Incorrect.setPositiveButton("Next", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int whichButton) {
+                    public void onClick(DialogInterface dialog, int whichButton) { // sets next button
                         triviaGame();
 
                     }
@@ -459,7 +459,7 @@ public class Trivia extends Activity implements OnClickListener {
     public void correct() {
 //        TextView correct = (TextView) findViewById(R.id.response);
 //        correct.setText("Correct!");
-        AlertDialog.Builder Correct = new AlertDialog.Builder(this);
+        AlertDialog.Builder Correct = new AlertDialog.Builder(this); // displays alert dialog
 
         Correct.setTitle(R.string.answer);
         Correct.setMessage(("Correct!"));

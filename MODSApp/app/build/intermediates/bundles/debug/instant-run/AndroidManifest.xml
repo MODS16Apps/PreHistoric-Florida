@@ -30,6 +30,7 @@
     <uses-permission android:name="org.example.prehistoricflorida.permission.C2D_MESSAGE" />
 
     <application
+        name="org.example.prehistoricflorida.googleAnalytics"
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"

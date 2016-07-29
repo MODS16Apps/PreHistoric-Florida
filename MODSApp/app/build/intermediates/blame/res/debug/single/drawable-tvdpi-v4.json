@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
-        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-tvdpi-v4/common_full_open_on_phone.png"
-    },
-    {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
         "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-tvdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",

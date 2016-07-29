@@ -30,11 +30,9 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
     int rating;
     static final String exhibit = "Prehistoric Florida";
     String comment;
-    private Tracker mTracker;
+    private Tracker mTracker; // creates analytics tracker
 
-    /**
-     * Called when the activity is first created.
-     */
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -51,14 +49,14 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
         View feedbackButton = findViewById(R.id.feedback_button);
         feedbackButton.setOnClickListener(this);
 
-        googleAnalytics application = (googleAnalytics) getApplication();
+        googleAnalytics application = (googleAnalytics) getApplication(); // initializes tracker
         mTracker = application.getDefaultTracker();
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         super.onCreateOptionsMenu(menu);
-        MenuInflater inflater = getMenuInflater();
+        MenuInflater inflater = getMenuInflater(); //creates credits menu
         inflater.inflate(R.menu.menu, menu);
         return true;
     }
@@ -78,7 +76,7 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
     // ...
 
     public void onClick(View v) {
-        switch (v.getId()) {
+        switch (v.getId()) { // waits for button press
             case R.id.animals_button:
                 Intent j = new Intent(this, Animals.class);
                 startActivity(j);
@@ -102,7 +100,7 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
         }
     }
 
-    public void rating() {
+    public void rating() { // opens rating dialog
             new AlertDialog.Builder(this)
                     .setTitle(R.string.rating)
                     .setItems(R.array.rating,
@@ -113,7 +111,7 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
                                     String rate = Integer.toString(rating);
                                     Log.d(TAG, rate);
                                     comment();
-                                    mTracker.send(new HitBuilders.EventBuilder()
+                                    mTracker.send(new HitBuilders.EventBuilder() //sends rating to google analyics
                                             .setCategory("Event")
                                             .setLabel("Rating")
                                             .setAction(rate)
@@ -141,7 +139,7 @@ public class PrehistoricFlorida extends Activity implements OnClickListener {
                     public void onClick(DialogInterface dialog, int whichButton) {
                         String comment = edittext.getText().toString();
                         Log.d(TAG, comment);
-                        mTracker.send(new HitBuilders.EventBuilder()
+                        mTracker.send(new HitBuilders.EventBuilder() // sends comment to google analytics
                                 .setCategory("Event")
                                 .setLabel("Comment")
                                 .setAction(comment)

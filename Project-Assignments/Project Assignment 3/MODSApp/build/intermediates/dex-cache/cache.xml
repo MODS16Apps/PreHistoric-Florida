@@ -1,2 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.2.1_28c2af83079f7d86539dbc24d6770979aaea1f3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_72b5b41f1d2a99c3b49b1c7d3d2979fd06b75822/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_d52017e2b037797ba81e58c85c4079054c7fee40/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f123d2c31504a3c5d6ef00b9872df953f1972d92">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aecd81d0c9c611d0f20313bcba8543193b8281c7/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.1_b4a5788781b3c086197bfaa4bb44ef0afa09afa0/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.1_356287d51fdfc96e15ac521655b9747d1e8b58ff/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_fe1ae7fc2ff30cde95b190c1f3597cfd798341db/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.2.1_c3360f4c619dbf09eea54bf1c03d27afadd44b54/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="48f89e92392d014e8d830d12f3081ceeac37b694">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_80aaa88a353a9901f4d00a9228180c26f2107b24/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.1_6bdf924cf8c4aa9816bc6deed5e39ac5e5f2b36f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_2604b721a9eb3857c77544e788e05a4bf8f892b7/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_19042c016c5d56309969ce43cadf18d575f42b26/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_18486f903269dd15e88619ffc29e9a2e844b3630/classes.dex" />
+    </item>
+    <item
+        jar="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/jacob/Github/PreHistoric-Florida/MODSApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_2f67e9f750cc9010b598ec9550b795f7849371b1/classes.dex" />
+    </item>
+
+</items>
